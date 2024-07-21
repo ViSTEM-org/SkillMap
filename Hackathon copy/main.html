@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Placeholder Title</title>
+    <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+    <div class="content">
+        <h1>Meet SkillMap</h1>
+        <h3 style="margin-top:5px;">Attain your goals faster and more efficient than ever before</h3>
+        <form id="firstForm">
+            <input type="text" id="skillInput" placeholder="Enter the skill you want to learn: (Ex: Flutter for Beginners)">
+            <input type="text" id="additionalInfoInput" placeholder="Additional information: (Ex: Flutter Basics, Flutter for App Development)">
+            <button type="submit">Submit</button>
+        </form>
+    </div>
+
+    <canvas id="test"></canvas>
+    
+    <script>
+        function handleFormSubmit(event) {
+            event.preventDefault(); // Prevent the default form submission behavior
+
+            // Get the input values
+            const skill = document.getElementById('skillInput').value;
+            const additionalInfo = document.getElementById('additionalInfoInput').value;
+
+            // Save values to local storage
+            localStorage.setItem('topics', JSON.stringify([skill, additionalInfo]));
+            localStorage.setItem('main_topic', skill);
+
+            // Redirect to next.html
+            window.location.href = 'next.html';
+        }
+
+        // Attach the event listener to the form
+        document.getElementById('firstForm').addEventListener('submit', handleFormSubmit);
+    </script>
+
+    <script src="js/background.js"></script>
+</body>
+</html>

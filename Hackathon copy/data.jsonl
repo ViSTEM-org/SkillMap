@@ -1,0 +1,922 @@
+[
+  {
+    "prompt": "Create a to-do list of tasks to learn data science from beginner to advanced. Here are some resources:\n- [Introduction to Data Science](https://www.coursera.org/learn/what-is-datascience)\n- [Intermediate Data Science](https://www.edx.org/professional-certificate/data-science)\n- [Advanced Data Science](https://www.udacity.com/course/data-scientist-nanodegree--nd025)",
+    "completion": {
+      "Beginner": [
+        {
+          "task": "Introduction to Data Science",
+          "resource": "https://www.coursera.org/learn/what-is-datascience",
+          "details": [
+            "Understand the basics of data science and its importance",
+            "Learn about different types of data and data sources",
+            "Explore basic data science tools and techniques"
+          ]
+        },
+        {
+          "task": "Python for Data Science",
+          "resource": "https://www.coursera.org/learn/what-is-datascience",
+          "details": [
+            "Learn Python basics and essential libraries for data science",
+            "Understand data manipulation with Pandas",
+            "Practice data visualization with Matplotlib and Seaborn"
+          ]
+        },
+        {
+          "task": "Statistics for Data Science",
+          "resource": "https://www.coursera.org/learn/what-is-datascience",
+          "details": [
+            "Learn basic statistical concepts and their applications in data science",
+            "Understand probability, distributions, and hypothesis testing",
+            "Practice descriptive and inferential statistics"
+          ]
+        }
+      ],
+      "Intermediate": [
+        {
+          "task": "Exploratory Data Analysis",
+          "resource": "https://www.edx.org/professional-certificate/data-science",
+          "details": [
+            "Learn techniques for exploring and analyzing data",
+            "Understand data cleaning and preprocessing",
+            "Practice with real-world datasets"
+          ]
+        },
+        {
+          "task": "Machine Learning Basics",
+          "resource": "https://www.edx.org/professional-certificate/data-science",
+          "details": [
+            "Understand the principles of machine learning",
+            "Learn about supervised and unsupervised learning",
+            "Implement basic algorithms like linear regression and k-means clustering"
+          ]
+        },
+        {
+          "task": "Model Evaluation and Validation",
+          "resource": "https://www.edx.org/professional-certificate/data-science",
+          "details": [
+            "Learn techniques for evaluating and validating models",
+            "Understand cross-validation and model selection",
+            "Practice with metrics like accuracy, precision, and recall"
+          ]
+        }
+      ],
+      "Advanced": [
+        {
+          "task": "Deep Learning",
+          "resource": "https://www.udacity.com/course/data-scientist-nanodegree--nd025",
+          "details": [
+            "Understand the basics of neural networks and deep learning",
+            "Learn about architectures like CNNs and RNNs",
+            "Implement deep learning models using TensorFlow or PyTorch"
+          ]
+        },
+        {
+          "task": "Natural Language Processing",
+          "resource": "https://www.udacity.com/course/data-scientist-nanodegree--nd025",
+          "details": [
+            "Learn techniques for processing and analyzing text data",
+            "Understand concepts like tokenization, stemming, and lemmatization",
+            "Implement NLP models for tasks like sentiment analysis and text classification"
+          ]
+        },
+        {
+          "task": "Big Data Technologies",
+          "resource": "https://www.udacity.com/course/data-scientist-nanodegree--nd025",
+          "details": [
+            "Understand the basics of big data and its challenges",
+            "Learn about tools like Hadoop and Spark",
+            "Implement big data solutions for large-scale data processing"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "prompt": "Create a to-do list of tasks to learn mobile app development from beginner to advanced. Here are some resources:\n- [Android Development for Beginners](https://developer.android.com/courses)\n- [Intermediate iOS Development](https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/)\n- [Advanced Mobile App Development](https://www.pluralsight.com/paths/mobile-development)",
+    "completion": {
+      "Beginner": [
+        {
+          "task": "Introduction to Android Development",
+          "resource": "https://developer.android.com/courses",
+          "details": [
+            "Set up Android Studio and create your first project",
+            "Understand the basics of Android architecture",
+            "Learn about activities, layouts, and views"
+          ]
+        },
+        {
+          "task": "Java for Android",
+          "resource": "https://developer.android.com/courses",
+          "details": [
+            "Learn basic Java programming for Android development",
+            "Understand object-oriented programming concepts",
+            "Practice with simple Android applications"
+          ]
+        },
+        {
+          "task": "UI Design",
+          "resource": "https://developer.android.com/courses",
+          "details": [
+            "Learn about XML layouts and UI components",
+            "Understand the principles of Material Design",
+            "Create simple and responsive user interfaces"
+          ]
+        }
+      ],
+      "Intermediate": [
+        {
+          "task": "Introduction to iOS Development",
+          "resource": "https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/",
+          "details": [
+            "Set up Xcode and create your first iOS project",
+            "Understand the basics of Swift programming",
+            "Learn about view controllers, storyboards, and UI components"
+          ]
+        },
+        {
+          "task": "Data Persistence",
+          "resource": "https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/",
+          "details": [
+            "Learn about different methods of data persistence",
+            "Understand Core Data and SQLite",
+            "Implement data storage solutions in your apps"
+          ]
+        },
+        {
+          "task": "Networking",
+          "resource": "https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/",
+          "details": [
+            "Learn about RESTful APIs and HTTP requests",
+            "Understand how to use URLSession and Alamofire",
+            "Implement networking features in your apps"
+          ]
+        }
+      ],
+      "Advanced": [
+        {
+          "task": "Cross-Platform Development",
+          "resource": "https://www.pluralsight.com/paths/mobile-development",
+          "details": [
+            "Understand the basics of cross-platform development",
+            "Learn about frameworks like Flutter and React Native",
+            "Build a simple cross-platform application"
+          ]
+        },
+        {
+          "task": "Advanced UI/UX Design",
+          "resource": "https://www.pluralsight.com/paths/mobile-development",
+          "details": [
+            "Learn about advanced UI/UX principles",
+            "Understand animations and custom views",
+            "Implement complex and engaging user interfaces"
+          ]
+        },
+        {
+          "task": "App Performance and Optimization",
+          "resource": "https://www.pluralsight.com/paths/mobile-development",
+          "details": [
+            "Learn techniques for optimizing app performance",
+            "Understand memory management and battery efficiency",
+            "Implement performance improvements in your applications"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "prompt": "Create a to-do list of tasks to learn cybersecurity from beginner to advanced. Here are some resources:\n- [Introduction to Cybersecurity](https://www.coursera.org/learn/intro-cyber-security)\n- [Intermediate Cybersecurity](https://www.cybrary.it/course/intermediate-cybersecurity/)\n- [Advanced Cybersecurity](https://www.sans.org/cyber-security-courses/)",
+    "completion": {
+      "Beginner": [
+        {
+          "task": "Introduction to Cybersecurity",
+          "resource": "https://www.coursera.org/learn/intro-cyber-security",
+          "details": [
+            "Understand the basics of cybersecurity and its importance",
+            "Learn about different types of cyber threats and attacks",
+            "Explore basic cybersecurity tools and techniques"
+          ]
+        },
+        {
+          "task": "Networking Basics",
+          "resource": "https://www.coursera.org/learn/intro-cyber-security",
+          "details": [
+            "Learn about network fundamentals and protocols",
+            "Understand TCP/IP, DNS, and HTTP",
+            "Practice with network configuration and troubleshooting"
+          ]
+        },
+        {
+          "task": "Introduction to Cryptography",
+          "resource": "https://www.coursera.org/learn/intro-cyber-security",
+          "details": [
+            "Understand the principles of cryptography",
+            "Learn about symmetric and asymmetric encryption",
+            "Practice with basic cryptographic algorithms"
+          ]
+        }
+      ],
+      "Intermediate": [
+        {
+          "task": "Vulnerability Assessment",
+          "resource": "https://www.cybrary.it/course/intermediate-cybersecurity/",
+          "details": [
+            "Learn techniques for identifying and assessing vulnerabilities",
+            "Understand common vulnerabilities and exposures (CVEs)",
+            "Practice with vulnerability scanning tools like Nessus"
+          ]
+        },
+        {
+          "task": "Network Security",
+          "resource": "https://www.cybrary.it/course/intermediate-cybersecurity/",
+          "details": [
+            "Learn about firewalls, intrusion detection systems, and VPNs",
+            "Understand how to secure network infrastructure",
+            "Implement network security measures in practice"
+          ]
+        },
+        {
+          "task": "Incident Response",
+          "resource": "https://www.cybrary.it/course/intermediate-cybersecurity/",
+          "details": [
+            "Learn about the incident response lifecycle",
+            "Understand how to detect, analyze, and respond to security incidents",
+            "Practice with incident response simulations"
+          ]
+        }
+      ],
+      "Advanced": [
+        {
+          "task": "Penetration Testing",
+          "resource": "https://www.sans.org/cyber-security-courses/",
+          "details": [
+            "Understand the principles of ethical hacking and penetration testing",
+            "Learn about different penetration testing methodologies",
+            "Practice with tools like Metasploit and Burp Suite"
+          ]
+        },
+        {
+          "task": "Advanced Threat Hunting",
+          "resource": "https://www.sans.org/cyber-security-courses/",
+          "details": [
+            "Learn techniques for proactive threat hunting",
+            "Understand how to identify and mitigate advanced persistent threats (APTs)",
+            "Implement threat hunting strategies in your organization"
+          ]
+        },
+        {
+          "task": "Security Architecture and Design",
+          "resource": "https://www.sans.org/cyber-security-courses/",
+          "details": [
+            "Learn about secure architecture and design principles",
+            "Understand how to design secure systems and networks",
+            "Implement security architecture best practices"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "prompt": "Create a to-do list of tasks to learn game development from beginner to advanced. Here are some resources:\n- [Game Development for Beginners](https://learn.unity.com/)\n- [Intermediate Game Development](https://www.coursera.org/specializations/game-development)\n- [Advanced Game Development](https://www.udacity.com/course/vr-developer-nanodegree--nd017)",
+    "completion": {
+      "Beginner": [
+        {
+          "task": "Introduction to Game Development",
+          "resource": "https://learn.unity.com/",
+          "details": [
+            "Set up Unity and create your first project",
+            "Understand the basics of game development",
+            "Learn about scenes, game objects, and components"
+          ]
+        },
+        {
+          "task": "C# Programming for Unity",
+          "resource": "https://learn.unity.com/",
+          "details": [
+            "Learn the basics of C# programming",
+            "Understand how to write scripts for Unity",
+            "Practice with simple game mechanics"
+          ]
+        },
+        {
+          "task": "Basic Game Design",
+          "resource": "https://learn.unity.com/",
+          "details": [
+            "Learn the principles of game design",
+            "Understand how to create and manage assets",
+            "Design and implement a simple game"
+          ]
+        }
+      ],
+      "Intermediate": [
+        {
+          "task": "Advanced Game Mechanics",
+          "resource": "https://www.coursera.org/specializations/game-development",
+          "details": [
+            "Learn about physics and collision detection",
+            "Understand animations and character controllers",
+            "Implement advanced game mechanics"
+          ]
+        },
+        {
+          "task": "Multiplayer Game Development",
+          "resource": "https://www.coursera.org/specializations/game-development",
+          "details": [
+            "Learn the basics of multiplayer game development",
+            "Understand networking concepts and multiplayer frameworks",
+            "Implement a simple multiplayer game"
+          ]
+        },
+        {
+          "task": "Game Optimization",
+          "resource": "https://www.coursera.org/specializations/game-development",
+          "details": [
+            "Learn techniques for optimizing game performance",
+            "Understand memory management and frame rate optimization",
+            "Implement performance improvements in your games"
+          ]
+        }
+      ],
+      "Advanced": [
+        {
+          "task": "Virtual Reality Development",
+          "resource": "https://www.udacity.com/course/vr-developer-nanodegree--nd017",
+          "details": [
+            "Understand the basics of virtual reality (VR)",
+            "Learn about VR hardware and software",
+            "Develop a VR game or application"
+          ]
+        },
+        {
+          "task": "Advanced Graphics and Shaders",
+          "resource": "https://www.udacity.com/course/vr-developer-nanodegree--nd017",
+          "details": [
+            "Learn about advanced graphics techniques",
+            "Understand how to create and use shaders",
+            "Implement advanced visual effects in your games"
+          ]
+        },
+        {
+          "task": "AI for Games",
+          "resource": "https://www.udacity.com/course/vr-developer-nanodegree--nd017",
+          "details": [
+            "Learn about artificial intelligence (AI) in games",
+            "Understand pathfinding, decision making, and behavior trees",
+            "Implement AI systems in your games"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "prompt": "Create a to-do list of tasks to learn machine learning from beginner to advanced. Here are some resources:\n- [Introduction to Machine Learning](https://www.coursera.org/learn/machine-learning)\n- [Intermediate Machine Learning](https://www.udacity.com/course/intro-to-machine-learning-with-pytorch--ud188)\n- [Advanced Machine Learning](https://www.fast.ai/)",
+    "completion": {
+      "Beginner": [
+        {
+          "task": "Introduction to Machine Learning",
+          "resource": "https://www.coursera.org/learn/machine-learning",
+          "details": [
+            "Understand the basics of machine learning and its applications",
+            "Learn about supervised and unsupervised learning",
+            "Implement simple machine learning algorithms"
+          ]
+        },
+        {
+          "task": "Linear Regression",
+          "resource": "https://www.coursera.org/learn/machine-learning",
+          "details": [
+            "Learn the principles of linear regression",
+            "Understand the least squares method",
+            "Implement linear regression models"
+          ]
+        },
+        {
+          "task": "Classification Algorithms",
+          "resource": "https://www.coursera.org/learn/machine-learning",
+          "details": [
+            "Learn about classification algorithms like logistic regression and decision trees",
+            "Understand how to evaluate classification models",
+            "Practice with classification tasks"
+          ]
+        }
+      ],
+      "Intermediate": [
+        {
+          "task": "Neural Networks",
+          "resource": "https://www.udacity.com/course/intro-to-machine-learning-with-pytorch--ud188",
+          "details": [
+            "Understand the basics of neural networks",
+            "Learn about activation functions and backpropagation",
+            "Implement simple neural networks with PyTorch"
+          ]
+        },
+        {
+          "task": "Unsupervised Learning",
+          "resource": "https://www.udacity.com/course/intro-to-machine-learning-with-pytorch--ud188",
+          "details": [
+            "Learn about clustering algorithms like k-means and hierarchical clustering",
+            "Understand dimensionality reduction techniques like PCA",
+            "Implement unsupervised learning algorithms"
+          ]
+        },
+        {
+          "task": "Model Evaluation and Tuning",
+          "resource": "https://www.udacity.com/course/intro-to-machine-learning-with-pytorch--ud188",
+          "details": [
+            "Learn techniques for evaluating and tuning models",
+            "Understand cross-validation and hyperparameter tuning",
+            "Practice with grid search and random search"
+          ]
+        }
+      ],
+      "Advanced": [
+        {
+          "task": "Deep Learning",
+          "resource": "https://www.fast.ai/",
+          "details": [
+            "Learn advanced deep learning techniques",
+            "Understand convolutional neural networks (CNNs) and recurrent neural networks (RNNs)",
+            "Implement deep learning models with FastAI"
+          ]
+        },
+        {
+          "task": "Reinforcement Learning",
+          "resource": "https://www.fast.ai/",
+          "details": [
+            "Understand the basics of reinforcement learning",
+            "Learn about value-based and policy-based methods",
+            "Implement reinforcement learning algorithms"
+          ]
+        },
+        {
+          "task": "Advanced Topics in Machine Learning",
+          "resource": "https://www.fast.ai/",
+          "details": [
+            "Explore advanced topics like transfer learning and generative models",
+            "Understand the latest research and trends in machine learning",
+            "Implement advanced machine learning techniques"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "prompt": "Create a to-do list of tasks to learn digital marketing from beginner to advanced. Here are some resources:\n- [Introduction to Digital Marketing](https://www.google.com/intl/en_us/digitalgarage/)\n- [Intermediate Digital Marketing](https://www.coursera.org/specializations/digital-marketing)\n- [Advanced Digital Marketing](https://www.udacity.com/course/digital-marketing-nanodegree--nd018)",
+    "completion": {
+      "Beginner": [
+        {
+          "task": "Introduction to Digital Marketing",
+          "resource": "https://www.google.com/intl/en_us/digitalgarage/",
+          "details": [
+            "Understand the basics of digital marketing",
+            "Learn about different digital marketing channels",
+            "Explore basic digital marketing tools and techniques"
+          ]
+        },
+        {
+          "task": "SEO Basics",
+          "resource": "https://www.google.com/intl/en_us/digitalgarage/",
+          "details": [
+            "Learn the principles of search engine optimization (SEO)",
+            "Understand on-page and off-page SEO",
+            "Implement basic SEO strategies"
+          ]
+        },
+        {
+          "task": "Social Media Marketing",
+          "resource": "https://www.google.com/intl/en_us/digitalgarage/",
+          "details": [
+            "Learn about different social media platforms and their audiences",
+            "Understand social media marketing strategies",
+            "Create and manage social media campaigns"
+          ]
+        }
+      ],
+      "Intermediate": [
+        {
+          "task": "Content Marketing",
+          "resource": "https://www.coursera.org/specializations/digital-marketing",
+          "details": [
+            "Learn about content marketing strategies",
+            "Understand how to create and distribute valuable content",
+            "Implement content marketing campaigns"
+          ]
+        },
+        {
+          "task": "Email Marketing",
+          "resource": "https://www.coursera.org/specializations/digital-marketing",
+          "details": [
+            "Learn the basics of email marketing",
+            "Understand how to build and manage email lists",
+            "Create and optimize email marketing campaigns"
+          ]
+        },
+        {
+          "task": "Analytics and Data-Driven Marketing",
+          "resource": "https://www.coursera.org/specializations/digital-marketing",
+          "details": [
+            "Learn about digital marketing analytics",
+            "Understand how to use data to drive marketing decisions",
+            "Implement analytics tools and techniques"
+          ]
+        }
+      ],
+      "Advanced": [
+        {
+          "task": "Advanced SEO Strategies",
+          "resource": "https://www.udacity.com/course/digital-marketing-nanodegree--nd018",
+          "details": [
+            "Learn advanced SEO techniques",
+            "Understand technical SEO and site audits",
+            "Implement advanced SEO strategies"
+          ]
+        },
+        {
+          "task": "Paid Advertising",
+          "resource": "https://www.udacity.com/course/digital-marketing-nanodegree--nd018",
+          "details": [
+            "Learn about paid advertising strategies",
+            "Understand pay-per-click (PPC) advertising and display ads",
+            "Create and manage paid advertising campaigns"
+          ]
+        },
+        {
+          "task": "Marketing Automation",
+          "resource": "https://www.udacity.com/course/digital-marketing-nanodegree--nd018",
+          "details": [
+            "Learn about marketing automation tools and techniques",
+            "Understand how to automate marketing processes",
+            "Implement marketing automation in your campaigns"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "prompt": "Create a to-do list of tasks to learn graphic design from beginner to advanced. Here are some resources:\n- [Introduction to Graphic Design](https://www.coursera.org/specializations/graphic-design)\n- [Intermediate Graphic Design](https://www.skillshare.com/browse/graphic-design)\n- [Advanced Graphic Design](https://www.lynda.com/Graphic-Design-training-tutorials/1297-0.html)",
+    "completion": {
+      "Beginner": [
+        {
+          "task": "Introduction to Graphic Design",
+          "resource": "https://www.coursera.org/specializations/graphic-design",
+          "details": [
+            "Understand the basics of graphic design",
+            "Learn about design principles and elements",
+            "Explore basic design tools and techniques"
+          ]
+        },
+        {
+          "task": "Typography Basics",
+          "resource": "https://www.coursera.org/specializations/graphic-design",
+          "details": [
+            "Learn about the principles of typography",
+            "Understand how to choose and use fonts",
+            "Practice with typography in design"
+          ]
+        },
+        {
+          "task": "Color Theory",
+          "resource": "https://www.coursera.org/specializations/graphic-design",
+          "details": [
+            "Learn about color theory and its applications in design",
+            "Understand color relationships and harmonies",
+            "Practice with color in design projects"
+          ]
+        }
+      ],
+      "Intermediate": [
+        {
+          "task": "Adobe Illustrator Basics",
+          "resource": "https://www.skillshare.com/browse/graphic-design",
+          "details": [
+            "Learn the basics of Adobe Illustrator",
+            "Understand vector graphics and illustration tools",
+            "Create simple illustrations and designs"
+          ]
+        },
+        {
+          "task": "Adobe Photoshop Basics",
+          "resource": "https://www.skillshare.com/browse/graphic-design",
+          "details": [
+            "Learn the basics of Adobe Photoshop",
+            "Understand photo editing and manipulation techniques",
+            "Create and edit graphics using Photoshop"
+          ]
+        },
+        {
+          "task": "Layout and Composition",
+          "resource": "https://www.skillshare.com/browse/graphic-design",
+          "details": [
+            "Learn about layout and composition principles",
+            "Understand how to arrange elements in a design",
+            "Create balanced and visually appealing compositions"
+          ]
+        }
+      ],
+      "Advanced": [
+        {
+          "task": "Advanced Illustrator Techniques",
+          "resource": "https://www.lynda.com/Graphic-Design-training-tutorials/1297-0.html",
+          "details": [
+            "Learn advanced techniques in Adobe Illustrator",
+            "Understand advanced vector graphics and effects",
+            "Create complex illustrations and designs"
+          ]
+        },
+        {
+          "task": "Advanced Photoshop Techniques",
+          "resource": "https://www.lynda.com/Graphic-Design-training-tutorials/1297-0.html",
+          "details": [
+            "Learn advanced techniques in Adobe Photoshop",
+            "Understand advanced photo editing and manipulation",
+            "Create complex graphics and compositions"
+          ]
+        },
+        {
+          "task": "Branding and Identity Design",
+          "resource": "https://www.lynda.com/Graphic-Design-training-tutorials/1297-0.html",
+          "details": [
+            "Learn about branding and identity design principles",
+            "Understand how to create logos and brand assets",
+            "Develop a comprehensive branding project"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "prompt": "Create a to-do list of tasks to learn cloud computing from beginner to advanced. Here are some resources:\n- [Introduction to Cloud Computing](https://www.coursera.org/learn/cloud-computing-basics)\n- [Intermediate Cloud Computing](https://www.udemy.com/course/aws-certified-solutions-architect-associate/)\n- [Advanced Cloud Computing](https://www.edx.org/professional-certificate/cloud-computing)",
+    "completion": {
+      "Beginner": [
+        {
+          "task": "Introduction to Cloud Computing",
+          "resource": "https://www.coursera.org/learn/cloud-computing-basics",
+          "details": [
+            "Understand the basics of cloud computing",
+            "Learn about different cloud service models (IaaS, PaaS, SaaS)",
+            "Explore basic cloud computing tools and techniques"
+          ]
+        },
+        {
+          "task": "Cloud Service Providers",
+          "resource": "https://www.coursera.org/learn/cloud-computing-basics",
+          "details": [
+            "Learn about major cloud service providers (AWS, Azure, Google Cloud)",
+            "Understand the services offered by each provider",
+            "Practice with basic cloud services"
+          ]
+        },
+        {
+          "task": "Virtualization Basics",
+          "resource": "https://www.coursera.org/learn/cloud-computing-basics",
+          "details": [
+            "Learn the principles of virtualization",
+            "Understand virtual machines and containers",
+            "Practice with virtualization tools"
+          ]
+        }
+      ],
+      "Intermediate": [
+        {
+          "task": "AWS Solutions Architect Associate",
+          "resource": "https://www.udemy.com/course/aws-certified-solutions-architect-associate/",
+          "details": [
+            "Understand the basics of AWS architecture",
+            "Learn about core AWS services (EC2, S3, RDS, VPC)",
+            "Implement solutions using AWS services"
+          ]
+        },
+        {
+          "task": "Cloud Security",
+          "resource": "https://www.udemy.com/course/aws-certified-solutions-architect-associate/",
+          "details": [
+            "Learn about cloud security principles",
+            "Understand how to secure cloud infrastructure",
+            "Implement security measures in the cloud"
+          ]
+        },
+        {
+          "task": "Cloud Automation and Orchestration",
+          "resource": "https://www.udemy.com/course/aws-certified-solutions-architect-associate/",
+          "details": [
+            "Learn about cloud automation and orchestration tools",
+            "Understand how to automate cloud workflows",
+            "Implement automation solutions using tools like Terraform and Ansible"
+          ]
+        }
+      ],
+      "Advanced": [
+        {
+          "task": "Advanced Cloud Architecting",
+          "resource": "https://www.edx.org/professional-certificate/cloud-computing",
+          "details": [
+            "Learn advanced cloud architecture techniques",
+            "Understand how to design scalable and resilient cloud solutions",
+            "Implement advanced cloud architectures"
+          ]
+        },
+        {
+          "task": "Cloud-Native Application Development",
+          "resource": "https://www.edx.org/professional-certificate/cloud-computing",
+          "details": [
+            "Learn about cloud-native application development",
+            "Understand microservices and serverless architectures",
+            "Develop cloud-native applications"
+          ]
+        },
+        {
+          "task": "Multi-Cloud Strategies",
+          "resource": "https://www.edx.org/professional-certificate/cloud-computing",
+          "details": [
+            "Learn about multi-cloud strategies and best practices",
+            "Understand how to manage and integrate multiple cloud providers",
+            "Implement a multi-cloud solution"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "prompt": "Create a to-do list of tasks to learn artificial intelligence from beginner to advanced. Here are some resources:\n- [Introduction to Artificial Intelligence](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python)\n- [Intermediate Artificial Intelligence](https://www.coursera.org/specializations/ai-for-everyone)\n- [Advanced Artificial Intelligence](https://www.udacity.com/course/artificial-intelligence-nanodegree--nd889)",
+    "completion": {
+      "Beginner": [
+        {
+          "task": "Introduction to Artificial Intelligence",
+          "resource": "https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python",
+          "details": [
+            "Understand the basics of artificial intelligence",
+            "Learn about different AI techniques and applications",
+            "Implement simple AI algorithms"
+          ]
+        },
+        {
+          "task": "Search Algorithms",
+          "resource": "https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python",
+          "details": [
+            "Learn about search algorithms like breadth-first search and depth-first search",
+            "Understand heuristic search and A* algorithm",
+            "Implement search algorithms in Python"
+          ]
+        },
+        {
+          "task": "Knowledge Representation and Reasoning",
+          "resource": "https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python",
+          "details": [
+            "Learn about knowledge representation techniques",
+            "Understand logic and reasoning in AI",
+            "Implement knowledge representation and reasoning algorithms"
+          ]
+        }
+      ],
+      "Intermediate": [
+        {
+          "task": "Machine Learning Basics",
+          "resource": "https://www.coursera.org/specializations/ai-for-everyone",
+          "details": [
+            "Understand the basics of machine learning",
+            "Learn about supervised and unsupervised learning",
+            "Implement simple machine learning algorithms"
+          ]
+        },
+        {
+          "task": "Natural Language Processing",
+          "resource": "https://www.coursera.org/specializations/ai-for-everyone",
+          "details": [
+            "Learn about natural language processing (NLP) techniques",
+            "Understand how to process and analyze text data",
+            "Implement NLP algorithms"
+          ]
+        },
+        {
+          "task": "Computer Vision",
+          "resource": "https://www.coursera.org/specializations/ai-for-everyone",
+          "details": [
+            "Learn about computer vision techniques",
+            "Understand how to process and analyze image data",
+            "Implement computer vision algorithms"
+          ]
+        }
+      ],
+      "Advanced": [
+        {
+          "task": "Deep Learning",
+          "resource": "https://www.udacity.com/course/artificial-intelligence-nanodegree--nd889",
+          "details": [
+            "Learn advanced deep learning techniques",
+            "Understand convolutional neural networks (CNNs) and recurrent neural networks (RNNs)",
+            "Implement deep learning models"
+          ]
+        },
+        {
+          "task": "Reinforcement Learning",
+          "resource": "https://www.udacity.com/course/artificial-intelligence-nanodegree--nd889",
+          "details": [
+            "Understand the basics of reinforcement learning",
+            "Learn about value-based and policy-based methods",
+            "Implement reinforcement learning algorithms"
+          ]
+        },
+        {
+          "task": "AI Ethics and Policy",
+          "resource": "https://www.udacity.com/course/artificial-intelligence-nanodegree--nd889",
+          "details": [
+            "Learn about ethical considerations in AI",
+            "Understand the impact of AI on society",
+            "Explore AI policies and regulations"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "prompt": "Create a to-do list of tasks to learn Python from beginner to advanced. Here are some resources:\n- [Python for Beginners](https://www.codecademy.com/learn/learn-python-3)\n- [Intermediate Python](https://realpython.com/)\n- [Advanced Python](https://www.coursera.org/specializations/advanced-machine-learning)",
+    "completion": {
+      "Beginner": [
+        {
+          "task": "Introduction to Python",
+          "resource": "https://www.codecademy.com/learn/learn-python-3",
+          "details": [
+            "Understand the basics of Python programming",
+            "Learn about variables, data types, and basic operations",
+            "Write simple Python scripts"
+          ]
+        },
+        {
+          "task": "Control Flow and Functions",
+          "resource": "https://www.codecademy.com/learn/learn-python-3",
+          "details": [
+            "Learn about conditional statements and loops",
+            "Understand how to define and use functions",
+            "Practice writing functions and control flow statements"
+          ]
+        },
+        {
+          "task": "Data Structures",
+          "resource": "https://www.codecademy.com/learn/learn-python-3",
+          "details": [
+            "Learn about lists, tuples, dictionaries, and sets",
+            "Understand how to manipulate data structures",
+            "Implement data structure operations in Python"
+          ]
+        }
+      ],
+      "Intermediate": [
+        {
+          "task": "Object-Oriented Programming",
+          "resource": "https://realpython.com/",
+          "details": [
+            "Understand the principles of object-oriented programming (OOP)",
+            "Learn about classes, objects, inheritance, and polymorphism",
+            "Implement OOP concepts in Python"
+          ]
+        },
+        {
+          "task": "Modules and Packages",
+          "resource": "https://realpython.com/",
+          "details": [
+            "Learn about Python modules and packages",
+            "Understand how to create and use modules",
+            "Organize code into packages"
+          ]
+        },
+        {
+          "task": "Working with Files",
+          "resource": "https://realpython.com/",
+          "details": [
+            "Learn how to read from and write to files",
+            "Understand file handling and manipulation",
+            "Practice with file operations in Python"
+          ]
+        }
+      ],
+      "Advanced": [
+        {
+          "task": "Advanced Data Structures",
+          "resource": "https://www.coursera.org/specializations/advanced-machine-learning",
+          "details": [
+            "Learn about advanced data structures like linked lists, stacks, and queues",
+            "Understand algorithms for manipulating advanced data structures",
+            "Implement advanced data structures in Python"
+          ]
+        },
+        {
+          "task": "Concurrency and Parallelism",
+          "resource": "https://www.coursera.org/specializations/advanced-machine-learning",
+          "details": [
+            "Understand the concepts of concurrency and parallelism",
+            "Learn about threading and multiprocessing",
+            "Implement concurrent and parallel programs in Python"
+          ]
+        },
+        {
+          "task": "Advanced Libraries and Frameworks",
+          "resource": "https://www.coursera.org/specializations/advanced-machine-learning",
+          "details": [
+            "Learn about advanced Python libraries and frameworks",
+            "Understand how to use libraries like NumPy, pandas, and TensorFlow",
+            "Implement complex projects using advanced libraries and frameworks"
+          ]
+        }
+      ]
+    }
+  }
+]
