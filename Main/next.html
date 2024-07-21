@@ -1,63 +1,84 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>Placeholder Title V2</title>
-        <meta charset="UTF-8">
-        <link rel="stylesheet" href="css/next.css">
-    </head>
-    <body>
-        <form id="secondForm">
-            <button type="button" onclick="goBack()"><strong>← Go Back</strong></button>
-        </form>
-        <div id="resultsTable">
-            <h2>Recommended Route</h2>
-            <p id="API-info">Loading...</p>
-        </div>
-        <script src="js/animation.js"></script>
-        <script>
-            async function sendPostRequest() {
-                try {
-                    // Retrieve data from local storage
-                    const topics = JSON.parse(localStorage.getItem('topics')) || [];
-                    const main_topic = localStorage.getItem('main_topic') || '';
+<head>
+    <title>Placeholder Title V2</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="css/next.css">
+</head>
+<body>
+    <button type="button" id="back">← Go Back</button>
+    <div id="resultsTable">
+        <h2>Recommended Route</h2>
+        <p id="API-info">Loading...</p>
+    </div>
 
-                    // Data to be sent in the POST request
-                    const data = {
-                        topics: topics,
-                        main_topic: main_topic
-                    };
+    <button id="generateNFTButton">Completed everything? <br> Get your certificate here!</button>
+    <p id="nftStatus"></p>
+    <img id="nftImage" alt="NFT Image" style="display: none;"/>
 
-                    // Send POST request
-                    const response = await fetch("http://localhost:8000/generate_study_plan", {
-                        method: 'POST',
-                        headers: {
-                            'Content-Type': 'application/json'
-                        },
-                        body: JSON.stringify(data)
-                    });
+    <script src="js/animation.js"></script>
+    <script>
+        async function sendPostRequest() {
+            try {
+                const topics = JSON.parse(localStorage.getItem('topics')) || [];
+                const main_topic = localStorage.getItem('main_topic') || '';
+                const data = { topics: topics, main_topic: main_topic };
 
-                    // Check if the request was successful
-                    if (response.ok) {
-                        // Parse the JSON response
-                        const studyPlan = await response.json();
-                        const plan = studyPlan.study_plan;
+                const response = await fetch("http://localhost:8000/generate_study_plan", {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify(data)
+                });
 
-                        console.log("Study Plan:");
-                        console.log(plan);
-
-                        // Set the innerHTML of the p tag with id API-info
-                        document.getElementById("API-info").innerHTML = plan.replace(/\n/g, '<br>');
-                    } else {
-                        console.error(`Error: ${response.status}`);
-                        console.error(await response.text());
-                    }
-                } catch (error) {
-                    console.error(`An error occurred: ${error}`);
+                if (response.ok) {
+                    const studyPlan = await response.json();
+                    document.getElementById("API-info").innerHTML = studyPlan.study_plan.replace(/\n/g, '<br>');
+                } else {
+                    console.error(`Error: ${response.status}`);
+                    document.getElementById("API-info").innerHTML = "Failed to load study plan.";
                 }
+            } catch (error) {
+                console.error(`An error occurred: ${error}`);
+                document.getElementById("API-info").innerHTML = "An error occurred while loading the study plan.";
+            }
+        }
+
+        document.addEventListener('DOMContentLoaded', function() {
+            sendPostRequest();
+
+            const generateNFTButton = document.getElementById('generateNFTButton');
+            const backButton = document.getElementById('back');
+            
+            if (generateNFTButton) {
+                generateNFTButton.addEventListener('click', async function() {
+                    const endpointUrl = 'http://localhost:8080/get_nft_and_image';
+                    try {
+                        const response = await fetch(endpointUrl);
+                        if (response.ok) {
+                            const data = await response.json();
+                            localStorage.setItem('nftData', JSON.stringify(data));
+                            window.location.href = 'certification.html';
+                        } else {
+                            console.error('Failed to retrieve NFT. Status code: ' + response.status);
+                            alert('Failed to retrieve NFT. Please try again.');
+                        }
+                    } catch (error) {
+                        console.error('Error:', error);
+                        alert('An error occurred. Please try again.');
+                    }
+                });
+            } else {
+                console.error('Generate NFT button not found');
             }
 
-            // Run the function
-            sendPostRequest();
-        </script>
-    </body>
+            if (backButton) {
+                backButton.addEventListener('click', function() {
+                    window.location.href = 'main.html';
+                });
+            } else {
+                console.error('Back button not found');
+            }
+        });
+    </script>
+</body>
 </html>
