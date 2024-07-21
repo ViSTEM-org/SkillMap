@@ -1,13 +1,3 @@
-function handleBackSubmit(event) {
-    event.preventDefault();
-    window.location.href = 'home.html';
-}
-document.getElementById('secondForm').addEventListener('button', handleBackSubmit);
-
-function goBack(){
-    window.location.href = 'main.html';
-}
-
 const table = document.getElementById('resultsTable');
 
 table.addEventListener('mousemove', function(event) {
@@ -27,17 +17,4 @@ table.addEventListener('mousemove', function(event) {
 
 table.addEventListener('mouseleave', function() {
     table.style.transform = `perspective(1000px) rotateX(0deg) rotateY(0deg)`;
-});
-
-function checkAllChecked() {
-    const checkboxes = document.querySelectorAll('.checkmark');
-    const allChecked = Array.from(checkboxes).every(checkbox => checkbox.checked);
-
-    if (allChecked) {
-        window.location.href = 'certification.html';
-    }
-}
-
-document.querySelectorAll('.checkmark').forEach(checkbox => {
-    checkbox.addEventListener('change', checkAllChecked);
 });

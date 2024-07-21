@@ -16,7 +16,7 @@ app = FastAPI()
 
 # Load environment variables
 load_dotenv()
-serp_api_key = os.getenv()
+serp_api_key = os.getenv("")
 openai_api_key = ""
 
 os.environ["OPENAI_API_KEY"] = openai_api_key

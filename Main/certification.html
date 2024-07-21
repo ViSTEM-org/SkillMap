@@ -3,37 +3,60 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Test FastAPI Endpoint</title>
+    <title>NFT Certificate</title>
+    <style>
+        * {
+            font-family: 'Segoe UI';
+        }
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0;
+        }
+        .certificate {
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+        h1 {
+            color: #333;
+        }
+        #nftUUID {
+            font-size: 18px;
+            color: #666;
+            margin-bottom: 20px;
+        }
+        #nftImage {
+            max-width: 40%;
+            height: auto;
+            margin-top: 20px;
+        }
+    </style>
 </head>
 <body>
-    <h1>Test FastAPI Endpoint</h1>
-    <button id="testButton">Test Endpoint</button>
-    <p id="status"></p>
-    <img id="resultImage" alt="Response Image" style="display: none;"/>
+    <div class="certificate">
+        <h1>Your NFT Certificate</h1>
+        <p id="nftUUID"></p>
+        <img id="nftImage" alt="NFT Certificate">
+    </div>
+
     <script>
-    document.getElementById('testButton').addEventListener('click', async () => {
-        const endpointUrl = 'http://localhost:8000/get_nft_and_image';
-        const statusElement = document.getElementById('status');
-        const resultImage = document.getElementById('resultImage');
-
-        try {
-            const response = await fetch(endpointUrl);
-            if (response.ok) {
-                const data = await response.json();
-                
-                // Display NFT information
-                statusElement.textContent = 'NFT Information: ' + data.nft_info;
-
-                // Display the image
-                resultImage.src = 'data:image/png;base64,' + data.image;
-                resultImage.style.display = 'block';
+        document.addEventListener('DOMContentLoaded', () => {
+            const nftData = JSON.parse(localStorage.getItem('nftData'));
+            if (nftData) {
+                document.getElementById('nftUUID').textContent = 'NFT UUID: ' + nftData.nft_info;
+                document.getElementById('nftImage').src = 'data:image/png;base64,' + nftData.image;
             } else {
-                statusElement.textContent = 'Failed to retrieve data. Status code: ' + response.status;
+                alert('No NFT data found. Please generate an NFT first.');
+                window.location.href = 'next.html';
             }
-        } catch (error) {
-            statusElement.textContent = 'Error: ' + error.message;
-        }
-    });
+        });
     </script>
 </body>
 </html>

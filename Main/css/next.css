@@ -6,8 +6,7 @@ body, html {
     align-items: center;
     justify-content: center;
     font-family: Verdana;
-    overflow-x: hidden;
-    overflow-y :hidden;
+    overflow: hidden;
     background-position: center;
 }
 
@@ -18,48 +17,82 @@ html {
 }
 
 #resultsTable {
+    margin-top: 45px;
     background: rgba(255, 255, 255, 0.8);
-    padding: 30px;
+    padding: 18px;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    width: 80%; 
-    text-align: left; 
+    width: 80%;
+    height: 80%; /* Adjust height as needed */
+    overflow-y: auto; /* Make content scrollable */
+    text-align: left;
     transition: transform 0.1s ease;
 }
 
- #resultsTable:hover {
-    transform: scale(2);
- }
+#resultsTable:hover {
+    transform: scale(1.05); /* Slightly increase the scale */
+}
 
 #resultsTable h2 {
     font-size: 35px;
     margin: 10px;
 }
 
-#resultsTable ol {
-    font-size:20px;
-    padding-left: 50px; 
-}
-
-#resultsTable ul {
-    font-size:20px;
-    padding: 0 20px;
+#resultsTable p {
+    font-size: 20px;
+    padding: 10px;
     overflow-wrap: break-word;
 }
 
-button {
-    position: absolute;
-    top: 10px;
+#back {
+    position: fixed;
+    bottom: 10px;
     left: 10px;
-    background: rgba(255, 255, 255, 0.8);
+    background: transparent;
+    color: rgba(255, 255, 255, 0.8);
     padding: 10px;
     border-radius: 5px;
-    text-align: left; 
-    border: none;
+    text-align: left;
+    border: 2px solid rgba(255, 255, 255, 0.8);
+    transition: color 0.3s, border-color 0.3s;
 }
 
-button:hover {
-    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);  
+#back:hover {
+    background-color: rgba(255, 255, 255, 0.8);
+    color: black;
+    border-color: rgba(255, 255, 255, 0.8);
 }
-    
 
+#generateNFTButton {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background: transparent;
+    color: #4CAF50;
+    border: 2px solid #4CAF50;
+    border-radius: 5px;
+    cursor: pointer;
+    z-index: 1000;
+    transition: color 0.3s, border-color 0.3s;
+}
+
+#generateNFTButton:hover {
+    background-color: #45a049;
+    color: white;
+    border-color: #4CAF50;
+}
+
+#nftStatus {
+    text-align: center;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+#nftImage {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    height: auto;
+}

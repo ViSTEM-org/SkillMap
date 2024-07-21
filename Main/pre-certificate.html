@@ -3,41 +3,38 @@
 <head>
     <title>Certificate</title>
     <meta charset="UTF-8">
-
 </head>
 <body>
     <h1>Create a one-paragraph summary of the skills you learned in order to get your certificate.</h1>
-    <h2>Your response will be analyzed by our SkillMap AI, which will determine whether you get the certificate or not.<h2>
-    <h3>This response must be at least 1000 words long, good luck!</h3>
-
-    <form>
-        <textarea>Enter text here...</textarea>
-        <input type="text" id="answer" name="answer" minlength="350">
+    <h2>Your response will be analyzed by our SkillMap AI, which will determine whether you get the certificate or not.</h2>
+    <h2>This response must be at least 350 characters long, good luck!</h2>
+    <form id="certificateForm">
+        <textarea id="summaryText" minlength="350">Enter text here...</textarea>
+        <button type="submit" id="submitButton" disabled>Submit</button>
     </form>
-
     <style>
         * {
             font-family: 'Segoe UI';
         }
-
+        html {
+            background-size: cover;
+            background-position: center;
+        }
         body {
             display: flex;
             text-align: center;
             flex-direction: column;
         }
-
         h3 {
             margin-top: 0;
         }
-
         #answer {
             width: 500px;
             height: 350px;
         }
-
         textarea {
-            width: 100%;
-            height: 150px;
+            width: 60%;
+            height: 200px;
             padding: 12px 20px;
             box-sizing: border-box;
             border: 2px solid #ccc;
@@ -46,8 +43,83 @@
             font-size: 16px;
             resize: none;
         }
-
-
+        button {
+            position: absolute;
+            top: 450px;
+            left: 720px;
+            font-size: 30px;
+            border: 2px solid rgb(77, 229, 130);
+            background: transparent;
+            border-radius: 10px;
+            transition: color 0.3s, border-color 0.3s;
+            color: rgb(77, 229, 130);
+        }
+        button:hover {
+            background-color: rgb(77, 229, 130);
+            color: white;
+            border-color: rgb(77, 229, 130);
+        }
     </style>
+    <script>
+        async function generateNFT() {
+            const endpointUrl = 'http://localhost:8080/get_nft_and_image';
+            try {
+                const response = await fetch(endpointUrl);
+                if (response.ok) {
+                    const data = await response.json();
+                    localStorage.setItem('nftData', JSON.stringify(data));
+                    window.location.href = 'certification.html';
+                } else {
+                    console.error('Failed to retrieve NFT. Status code: ' + response.status);
+                    alert('Failed to retrieve NFT. Please try again.');
+                }
+            } catch (error) {
+                console.error('Error:', error);
+                alert('An error occurred. Please try again.');
+            }
+        }
+
+        async function checkGenuineness(text) {
+            const url = "http://127.0.0.1:8080/check_genuineness";
+            const params = new URLSearchParams({ text: text });
+
+            try {
+                const response = await fetch(`${url}?${params}`, { method: 'POST' });
+                if (response.ok) {
+                    const responseText = await response.text();
+                    console.log("Response from server:", responseText);
+                    return responseText;
+                } else {
+                    console.error(`Failed to get a response from the server. Status code: ${response.status}`);
+                    console.error("Response text:", await response.text());
+                    return null;
+                }
+            } catch (error) {
+                console.error("An error occurred:", error);
+                return null;
+            }
+        }
+
+        document.addEventListener('DOMContentLoaded', function() {
+            const submitButton = document.getElementById('submitButton');
+            const summaryText = document.getElementById('summaryText');
+            
+            summaryText.addEventListener('input', function() {
+                submitButton.disabled = summaryText.value.length < 350;
+            });
+
+            const certificateForm = document.getElementById('certificateForm');
+            certificateForm.addEventListener('submit', async function(event) {
+                event.preventDefault();
+                
+                const genuineness = await checkGenuineness(summaryText.value);
+                if (genuineness === "Yes") {
+                    generateNFT();
+                } else {
+                    alert("Your response does not seem genuine. Please try again.");
+                }
+            });
+        });
+    </script>
 </body>
 </html>
