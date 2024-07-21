@@ -1,0 +1,78 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Verdana;
+    background-position: center;
+    
+}
+
+html {
+    background: url("bg.png");
+    background-size: cover;
+    background-position: center;
+}
+
+canvas {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.content{
+    position: relative;
+    z-index: 1;
+    text-align: center;
+    color: #333;
+    background: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    margin: 0;
+}
+
+input[type="text"], button {
+    margin-top: 10px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 80%;
+}
+
+button:hover {
+    background-color: #3333330b;
+}
+
+#resultsTable {
+    position: relative;
+    z-index: 1;
+    background: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 80%; 
+    text-align: left; 
+}
+
+
+#resultsTable h2 {
+    margin: 0;
+}
+
+#resultsTable ol {
+    padding-left: 20px; 
+}
+
+#resultsTable ul {
+    padding-left: 20px; 
+}

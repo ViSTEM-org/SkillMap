@@ -1,0 +1,2102 @@
+[
+  {
+    "prompt": "Can you create a to-do list of items in increasing difficulty to learn Python from beginner to advanced using these links as resources?\nhttps://www.python.org/about/gettingstarted/\nhttps://learn.microsoft.com/en-us/training/paths/beginner-python/\nhttps://www.w3schools.com/python/\nhttps://realpython.com/tutorials/intermediate/\nhttps://www.datacamp.com/courses/intermediate-python\nhttps://www.codecademy.com/learn/learn-intermediate-python-3\nhttps://realpython.com/tutorials/advanced/\nhttps://www.geeksforgeeks.org/advanced-python-tutorials/\nhttps://www.codecademy.com/learn/learn-advanced-python/",
+    "completion": {
+      "Beginner": [
+        "Install Python and Write Your First Script",
+        "Learn Basic Syntax and Data Types",
+        "Control Flow, Functions, and Error Handling",
+        "Work Through Tutorials",
+        {
+          "Resources": [
+            "https://www.datacamp.com/courses/intermediate-python",
+            "https://www.w3schools.com/python/",
+            "https://www.geeksforgeeks.org/advanced-python-tutorials/"
+          ]
+        }
+      ],
+      "Intermediate": [
+        "Dive into OOP, Decorators, Context Managers",
+        "Learn About Iterators, Generators, and Web Scraping",
+        "Complete Intermediate Courses",
+        {
+          "Resources": [
+            "https://www.codecademy.com/learn/learn-intermediate-python-3",
+            "https://www.codecademy.com/learn/learn-advanced-python/",
+            "https://learn.microsoft.com/en-us/training/paths/beginner-python/"
+          ]
+        }
+      ],
+      "Advanced": [
+        "Study Advanced OOP, Metaclasses, and Asynchronous Programming",
+        "Optimize Memory Management and Learn Advanced Decorators",
+        "Complete Advanced Tutorials",
+        {
+          "Resources": [
+            "https://www.python.org/about/gettingstarted/",
+            "https://realpython.com/tutorials/advanced/",
+            "https://realpython.com/tutorials/intermediate/"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "prompt": "Can you create a to-do list of items in increasing difficulty to learn Python from beginner to advanced using these links as resources?\nhttps://www.python.org/about/gettingstarted/\nhttps://learn.microsoft.com/en-us/training/paths/beginner-python/\nhttps://www.w3schools.com/python/\nhttps://realpython.com/tutorials/intermediate/\nhttps://www.datacamp.com/courses/intermediate-python\nhttps://www.codecademy.com/learn/learn-intermediate-python-3\nhttps://realpython.com/tutorials/advanced/\nhttps://www.geeksforgeeks.org/advanced-python-tutorials/\nhttps://www.codecademy.com/learn/learn-advanced-python/",
+    "completion": {
+      "Beginner": [
+        "Install Python and Write Your First Script",
+        "Learn Basic Syntax and Data Types",
+        "Control Flow, Functions, and Error Handling",
+        "Work Through Tutorials",
+        {
+          "Resources": [
+            "https://www.datacamp.com/courses/intermediate-python",
+            "https://www.w3schools.com/python/",
+            "https://learn.microsoft.com/en-us/training/paths/beginner-python/"
+          ]
+        }
+      ],
+      "Intermediate": [
+        "Dive into OOP, Decorators, Context Managers",
+        "Learn About Iterators, Generators, and Web Scraping",
+        "Complete Intermediate Courses",
+        {
+          "Resources": [
+            "https://www.codecademy.com/learn/learn-intermediate-python-3",
+            "https://www.codecademy.com/learn/learn-advanced-python/",
+            "https://www.geeksforgeeks.org/advanced-python-tutorials/"
+          ]
+        }
+      ],
+      "Advanced": [
+        "Study Advanced OOP, Metaclasses, and Asynchronous Programming",
+        "Optimize Memory Management and Learn Advanced Decorators",
+        "Complete Advanced Tutorials",
+        {
+          "Resources": [
+            "https://www.python.org/about/gettingstarted/",
+            "https://realpython.com/tutorials/intermediate/",
+            "https://realpython.com/tutorials/advanced/"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "prompt": "Can you create a to-do list of items in increasing difficulty to learn Python from beginner to advanced using these links as resources?\nhttps://www.python.org/about/gettingstarted/\nhttps://learn.microsoft.com/en-us/training/paths/beginner-python/\nhttps://www.w3schools.com/python/\nhttps://realpython.com/tutorials/intermediate/\nhttps://www.datacamp.com/courses/intermediate-python\nhttps://www.codecademy.com/learn/learn-intermediate-python-3\nhttps://realpython.com/tutorials/advanced/\nhttps://www.geeksforgeeks.org/advanced-python-tutorials/\nhttps://www.codecademy.com/learn/learn-advanced-python/",
+    "completion": {
+      "Beginner": [
+        "Install Python and Write Your First Script",
+        "Learn Basic Syntax and Data Types",
+        "Control Flow, Functions, and Error Handling",
+        "Work Through Tutorials",
+        {
+          "Resources": [
+            "https://realpython.com/tutorials/advanced/",
+            "https://www.geeksforgeeks.org/advanced-python-tutorials/",
+            "https://www.w3schools.com/python/"
+          ]
+        }
+      ],
+      "Intermediate": [
+        "Dive into OOP, Decorators, Context Managers",
+        "Learn About Iterators, Generators, and Web Scraping",
+        "Complete Intermediate Courses",
+        {
+          "Resources": [
+            "https://www.codecademy.com/learn/learn-intermediate-python-3",
+            "https://www.datacamp.com/courses/intermediate-python",
+            "https://learn.microsoft.com/en-us/training/paths/beginner-python/"
+          ]
+        }
+      ],
+      "Advanced": [
+        "Study Advanced OOP, Metaclasses, and Asynchronous Programming",
+        "Optimize Memory Management and Learn Advanced Decorators",
+        "Complete Advanced Tutorials",
+        {
+          "Resources": [
+            "https://www.codecademy.com/learn/learn-advanced-python/",
+            "https://www.python.org/about/gettingstarted/",
+            "https://realpython.com/tutorials/intermediate/"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "prompt": "Can you create a to-do list of items in increasing difficulty to learn Python from beginner to advanced using these links as resources?\nhttps://www.python.org/about/gettingstarted/\nhttps://learn.microsoft.com/en-us/training/paths/beginner-python/\nhttps://www.w3schools.com/python/\nhttps://realpython.com/tutorials/intermediate/\nhttps://www.datacamp.com/courses/intermediate-python\nhttps://www.codecademy.com/learn/learn-intermediate-python-3\nhttps://realpython.com/tutorials/advanced/\nhttps://www.geeksforgeeks.org/advanced-python-tutorials/\nhttps://www.codecademy.com/learn/learn-advanced-python/",
+    "completion": {
+      "Beginner": [
+        "Install Python and Write Your First Script",
+        "Learn Basic Syntax and Data Types",
+        "Control Flow, Functions, and Error Handling",
+        "Work Through Tutorials",
+        {
+          "Resources": [
+            "https://www.codecademy.com/learn/learn-intermediate-python-3",
+            "https://www.codecademy.com/learn/learn-advanced-python/",
+            "https://www.geeksforgeeks.org/advanced-python-tutorials/"
+          ]
+        }
+      ],
+      "Intermediate": [
+        "Dive into OOP, Decorators, Context Managers",
+        "Learn About Iterators, Generators, and Web Scraping",
+        "Complete Intermediate Courses",
+        {
+          "Resources": [
+            "https://www.datacamp.com/courses/intermediate-python",
+            "https://www.w3schools.com/python/",
+            "https://www.python.org/about/gettingstarted/"
+          ]
+        }
+      ],
+      "Advanced": [
+        "Study Advanced OOP, Metaclasses, and Asynchronous Programming",
+        "Optimize Memory Management and Learn Advanced Decorators",
+        "Complete Advanced Tutorials",
+        {
+          "Resources": [
+            "https://realpython.com/tutorials/advanced/",
+            "https://realpython.com/tutorials/intermediate/",
+            "https://learn.microsoft.com/en-us/training/paths/beginner-python/"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "prompt": "Can you create a to-do list of items in increasing difficulty to learn Python from beginner to advanced using these links as resources?\nhttps://www.python.org/about/gettingstarted/\nhttps://learn.microsoft.com/en-us/training/paths/beginner-python/\nhttps://www.w3schools.com/python/\nhttps://realpython.com/tutorials/intermediate/\nhttps://www.datacamp.com/courses/intermediate-python\nhttps://www.codecademy.com/learn/learn-intermediate-python-3\nhttps://realpython.com/tutorials/advanced/\nhttps://www.geeksforgeeks.org/advanced-python-tutorials/\nhttps://www.codecademy.com/learn/learn-advanced-python/",
+    "completion": {
+      "Beginner": [
+        "Install Python and Write Your First Script",
+        "Learn Basic Syntax and Data Types",
+        "Control Flow, Functions, and Error Handling",
+        "Work Through Tutorials",
+        {
+          "Resources": [
+            "https://learn.microsoft.com/en-us/training/paths/beginner-python/",
+            "https://www.w3schools.com/python/",
+            "https://www.codecademy.com/learn/learn-advanced-python/"
+          ]
+        }
+      ],
+      "Intermediate": [
+        "Dive into OOP, Decorators, Context Managers",
+        "Learn About Iterators, Generators, and Web Scraping",
+        "Complete Intermediate Courses",
+        {
+          "Resources": [
+            "https://www.codecademy.com/learn/learn-intermediate-python-3",
+            "https://www.datacamp.com/courses/intermediate-python",
+            "https://realpython.com/tutorials/advanced/"
+          ]
+        }
+      ],
+      "Advanced": [
+        "Study Advanced OOP, Metaclasses, and Asynchronous Programming",
+        "Optimize Memory Management and Learn Advanced Decorators",
+        "Complete Advanced Tutorials",
+        {
+          "Resources": [
+            "https://realpython.com/tutorials/intermediate/",
+            "https://www.python.org/about/gettingstarted/",
+            "https://www.geeksforgeeks.org/advanced-python-tutorials/"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "prompt": "Can you create a to-do list of items in increasing difficulty to learn Python from beginner to advanced using these links as resources?\nhttps://www.python.org/about/gettingstarted/\nhttps://learn.microsoft.com/en-us/training/paths/beginner-python/\nhttps://www.w3schools.com/python/\nhttps://realpython.com/tutorials/intermediate/\nhttps://www.datacamp.com/courses/intermediate-python\nhttps://www.codecademy.com/learn/learn-intermediate-python-3\nhttps://realpython.com/tutorials/advanced/\nhttps://www.geeksforgeeks.org/advanced-python-tutorials/\nhttps://www.codecademy.com/learn/learn-advanced-python/",
+    "completion": {
+      "Beginner": [
+        "Install Python and Write Your First Script",
+        "Learn Basic Syntax and Data Types",
+        "Control Flow, Functions, and Error Handling",
+        "Work Through Tutorials",
+        {
+          "Resources": [
+            "https://www.datacamp.com/courses/intermediate-python",
+            "https://realpython.com/tutorials/advanced/",
+            "https://www.w3schools.com/python/"
+          ]
+        }
+      ],
+      "Intermediate": [
+        "Dive into OOP, Decorators, Context Managers",
+        "Learn About Iterators, Generators, and Web Scraping",
+        "Complete Intermediate Courses",
+        {
+          "Resources": [
+            "https://www.geeksforgeeks.org/advanced-python-tutorials/",
+            "https://realpython.com/tutorials/intermediate/",
+            "https://www.codecademy.com/learn/learn-intermediate-python-3"
+          ]
+        }
+      ],
+      "Advanced": [
+        "Study Advanced OOP, Metaclasses, and Asynchronous Programming",
+        "Optimize Memory Management and Learn Advanced Decorators",
+        "Complete Advanced Tutorials",
+        {
+          "Resources": [
+            "https://www.python.org/about/gettingstarted/",
+            "https://www.codecademy.com/learn/learn-advanced-python/",
+            "https://learn.microsoft.com/en-us/training/paths/beginner-python/"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "prompt": "Can you create a to-do list of items in increasing difficulty to learn Python from beginner to advanced using these links as resources?\nhttps://www.python.org/about/gettingstarted/\nhttps://learn.microsoft.com/en-us/training/paths/beginner-python/\nhttps://www.w3schools.com/python/\nhttps://realpython.com/tutorials/intermediate/\nhttps://www.datacamp.com/courses/intermediate-python\nhttps://www.codecademy.com/learn/learn-intermediate-python-3\nhttps://realpython.com/tutorials/advanced/\nhttps://www.geeksforgeeks.org/advanced-python-tutorials/\nhttps://www.codecademy.com/learn/learn-advanced-python/",
+    "completion": {
+      "Beginner": [
+        "Install Python and Write Your First Script",
+        "Learn Basic Syntax and Data Types",
+        "Control Flow, Functions, and Error Handling",
+        "Work Through Tutorials",
+        {
+          "Resources": [
+            "https://learn.microsoft.com/en-us/training/paths/beginner-python/",
+            "https://www.codecademy.com/learn/learn-advanced-python/",
+            "https://realpython.com/tutorials/intermediate/"
+          ]
+        }
+      ],
+      "Intermediate": [
+        "Dive into OOP, Decorators, Context Managers",
+        "Learn About Iterators, Generators, and Web Scraping",
+        "Complete Intermediate Courses",
+        {
+          "Resources": [
+            "https://realpython.com/tutorials/advanced/",
+            "https://www.codecademy.com/learn/learn-intermediate-python-3",
+            "https://www.geeksforgeeks.org/advanced-python-tutorials/"
+          ]
+        }
+      ],
+      "Advanced": [
+        "Study Advanced OOP, Metaclasses, and Asynchronous Programming",
+        "Optimize Memory Management and Learn Advanced Decorators",
+        "Complete Advanced Tutorials",
+        {
+          "Resources": [
+            "https://www.datacamp.com/courses/intermediate-python",
+            "https://www.python.org/about/gettingstarted/",
+            "https://www.w3schools.com/python/"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "prompt": "Can you create a to-do list of items in increasing difficulty to learn Python from beginner to advanced using these links as resources?\nhttps://www.python.org/about/gettingstarted/\nhttps://learn.microsoft.com/en-us/training/paths/beginner-python/\nhttps://www.w3schools.com/python/\nhttps://realpython.com/tutorials/intermediate/\nhttps://www.datacamp.com/courses/intermediate-python\nhttps://www.codecademy.com/learn/learn-intermediate-python-3\nhttps://realpython.com/tutorials/advanced/\nhttps://www.geeksforgeeks.org/advanced-python-tutorials/\nhttps://www.codecademy.com/learn/learn-advanced-python/",
+    "completion": {
+      "Beginner": [
+        "Install Python and Write Your First Script",
+        "Learn Basic Syntax and Data Types",
+        "Control Flow, Functions, and Error Handling",
+        "Work Through Tutorials",
+        {
+          "Resources": [
+            "https://learn.microsoft.com/en-us/training/paths/beginner-python/",
+            "https://realpython.com/tutorials/intermediate/",
+            "https://www.datacamp.com/courses/intermediate-python"
+          ]
+        }
+      ],
+      "Intermediate": [
+        "Dive into OOP, Decorators, Context Managers",
+        "Learn About Iterators, Generators, and Web Scraping",
+        "Complete Intermediate Courses",
+        {
+          "Resources": [
+            "https://www.codecademy.com/learn/learn-advanced-python/",
+            "https://www.codecademy.com/learn/learn-intermediate-python-3",
+            "https://www.w3schools.com/python/"
+          ]
+        }
+      ],
+      "Advanced": [
+        "Study Advanced OOP, Metaclasses, and Asynchronous Programming",
+        "Optimize Memory Management and Learn Advanced Decorators",
+        "Complete Advanced Tutorials",
+        {
+          "Resources": [
+            "https://realpython.com/tutorials/advanced/",
+            "https://www.geeksforgeeks.org/advanced-python-tutorials/",
+            "https://www.python.org/about/gettingstarted/"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "prompt": "Can you create a to-do list of items in increasing difficulty to learn Python from beginner to advanced using these links as resources?\nhttps://www.python.org/about/gettingstarted/\nhttps://learn.microsoft.com/en-us/training/paths/beginner-python/\nhttps://www.w3schools.com/python/\nhttps://realpython.com/tutorials/intermediate/\nhttps://www.datacamp.com/courses/intermediate-python\nhttps://www.codecademy.com/learn/learn-intermediate-python-3\nhttps://realpython.com/tutorials/advanced/\nhttps://www.geeksforgeeks.org/advanced-python-tutorials/\nhttps://www.codecademy.com/learn/learn-advanced-python/",
+    "completion": {
+      "Beginner": [
+        "Install Python and Write Your First Script",
+        "Learn Basic Syntax and Data Types",
+        "Control Flow, Functions, and Error Handling",
+        "Work Through Tutorials",
+        {
+          "Resources": [
+            "https://www.python.org/about/gettingstarted/",
+            "https://www.codecademy.com/learn/learn-intermediate-python-3",
+            "https://learn.microsoft.com/en-us/training/paths/beginner-python/"
+          ]
+        }
+      ],
+      "Intermediate": [
+        "Dive into OOP, Decorators, Context Managers",
+        "Learn About Iterators, Generators, and Web Scraping",
+        "Complete Intermediate Courses",
+        {
+          "Resources": [
+            "https://realpython.com/tutorials/advanced/",
+            "https://www.codecademy.com/learn/learn-advanced-python/",
+            "https://www.geeksforgeeks.org/advanced-python-tutorials/"
+          ]
+        }
+      ],
+      "Advanced": [
+        "Study Advanced OOP, Metaclasses, and Asynchronous Programming",
+        "Optimize Memory Management and Learn Advanced Decorators",
+        "Complete Advanced Tutorials",
+        {
+          "Resources": [
+            "https://www.datacamp.com/courses/intermediate-python",
+            "https://www.w3schools.com/python/",
+            "https://realpython.com/tutorials/intermediate/"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "prompt": "Can you create a to-do list of items in increasing difficulty to learn Python from beginner to advanced using these links as resources?\nhttps://www.python.org/about/gettingstarted/\nhttps://learn.microsoft.com/en-us/training/paths/beginner-python/\nhttps://www.w3schools.com/python/\nhttps://realpython.com/tutorials/intermediate/\nhttps://www.datacamp.com/courses/intermediate-python\nhttps://www.codecademy.com/learn/learn-intermediate-python-3\nhttps://realpython.com/tutorials/advanced/\nhttps://www.geeksforgeeks.org/advanced-python-tutorials/\nhttps://www.codecademy.com/learn/learn-advanced-python/",
+    "completion": {
+      "Beginner": [
+        "Install Python and Write Your First Script",
+        "Learn Basic Syntax and Data Types",
+        "Control Flow, Functions, and Error Handling",
+        "Work Through Tutorials",
+        {
+          "Resources": [
+            "https://realpython.com/tutorials/advanced/",
+            "https://realpython.com/tutorials/intermediate/",
+            "https://www.datacamp.com/courses/intermediate-python"
+          ]
+        }
+      ],
+      "Intermediate": [
+        "Dive into OOP, Decorators, Context Managers",
+        "Learn About Iterators, Generators, and Web Scraping",
+        "Complete Intermediate Courses",
+        {
+          "Resources": [
+            "https://learn.microsoft.com/en-us/training/paths/beginner-python/",
+            "https://www.codecademy.com/learn/learn-intermediate-python-3",
+            "https://www.geeksforgeeks.org/advanced-python-tutorials/"
+          ]
+        }
+      ],
+      "Advanced": [
+        "Study Advanced OOP, Metaclasses, and Asynchronous Programming",
+        "Optimize Memory Management and Learn Advanced Decorators",
+        "Complete Advanced Tutorials",
+        {
+          "Resources": [
+            "https://www.w3schools.com/python/",
+            "https://www.codecademy.com/learn/learn-advanced-python/",
+            "https://www.python.org/about/gettingstarted/"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "prompt": "Can you create a to-do list of items in increasing difficulty to learn Python from beginner to advanced using these links as resources?\nhttps://www.python.org/about/gettingstarted/\nhttps://learn.microsoft.com/en-us/training/paths/beginner-python/\nhttps://www.w3schools.com/python/\nhttps://realpython.com/tutorials/intermediate/\nhttps://www.datacamp.com/courses/intermediate-python\nhttps://www.codecademy.com/learn/learn-intermediate-python-3\nhttps://realpython.com/tutorials/advanced/\nhttps://www.geeksforgeeks.org/advanced-python-tutorials/\nhttps://www.codecademy.com/learn/learn-advanced-python/",
+    "completion": {
+      "Beginner": [
+        "Install Python and Write Your First Script",
+        "Learn Basic Syntax and Data Types",
+        "Control Flow, Functions, and Error Handling",
+        "Work Through Tutorials",
+        {
+          "Resources": [
+            "https://realpython.com/tutorials/intermediate/",
+            "https://learn.microsoft.com/en-us/training/paths/beginner-python/",
+            "https://realpython.com/tutorials/advanced/"
+          ]
+        }
+      ],
+      "Intermediate": [
+        "Dive into OOP, Decorators, Context Managers",
+        "Learn About Iterators, Generators, and Web Scraping",
+        "Complete Intermediate Courses",
+        {
+          "Resources": [
+            "https://www.codecademy.com/learn/learn-intermediate-python-3",
+            "https://www.geeksforgeeks.org/advanced-python-tutorials/",
+            "https://www.w3schools.com/python/"
+          ]
+        }
+      ],
+      "Advanced": [
+        "Study Advanced OOP, Metaclasses, and Asynchronous Programming",
+        "Optimize Memory Management and Learn Advanced Decorators",
+        "Complete Advanced Tutorials",
+        {
+          "Resources": [
+            "https://www.python.org/about/gettingstarted/",
+            "https://www.codecademy.com/learn/learn-advanced-python/",
+            "https://www.datacamp.com/courses/intermediate-python"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "prompt": "Can you create a to-do list of items in increasing difficulty to learn Python from beginner to advanced using these links as resources?\nhttps://www.python.org/about/gettingstarted/\nhttps://learn.microsoft.com/en-us/training/paths/beginner-python/\nhttps://www.w3schools.com/python/\nhttps://realpython.com/tutorials/intermediate/\nhttps://www.datacamp.com/courses/intermediate-python\nhttps://www.codecademy.com/learn/learn-intermediate-python-3\nhttps://realpython.com/tutorials/advanced/\nhttps://www.geeksforgeeks.org/advanced-python-tutorials/\nhttps://www.codecademy.com/learn/learn-advanced-python/",
+    "completion": {
+      "Beginner": [
+        "Install Python and Write Your First Script",
+        "Learn Basic Syntax and Data Types",
+        "Control Flow, Functions, and Error Handling",
+        "Work Through Tutorials",
+        {
+          "Resources": [
+            "https://learn.microsoft.com/en-us/training/paths/beginner-python/",
+            "https://www.w3schools.com/python/",
+            "https://www.datacamp.com/courses/intermediate-python"
+          ]
+        }
+      ],
+      "Intermediate": [
+        "Dive into OOP, Decorators, Context Managers",
+        "Learn About Iterators, Generators, and Web Scraping",
+        "Complete Intermediate Courses",
+        {
+          "Resources": [
+            "https://www.python.org/about/gettingstarted/",
+            "https://www.geeksforgeeks.org/advanced-python-tutorials/",
+            "https://www.codecademy.com/learn/learn-advanced-python/"
+          ]
+        }
+      ],
+      "Advanced": [
+        "Study Advanced OOP, Metaclasses, and Asynchronous Programming",
+        "Optimize Memory Management and Learn Advanced Decorators",
+        "Complete Advanced Tutorials",
+        {
+          "Resources": [
+            "https://realpython.com/tutorials/advanced/",
+            "https://www.codecademy.com/learn/learn-intermediate-python-3",
+            "https://realpython.com/tutorials/intermediate/"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "prompt": "Can you create a to-do list of items in increasing difficulty to learn Python from beginner to advanced using these links as resources?\nhttps://www.python.org/about/gettingstarted/\nhttps://learn.microsoft.com/en-us/training/paths/beginner-python/\nhttps://www.w3schools.com/python/\nhttps://realpython.com/tutorials/intermediate/\nhttps://www.datacamp.com/courses/intermediate-python\nhttps://www.codecademy.com/learn/learn-intermediate-python-3\nhttps://realpython.com/tutorials/advanced/\nhttps://www.geeksforgeeks.org/advanced-python-tutorials/\nhttps://www.codecademy.com/learn/learn-advanced-python/",
+    "completion": {
+      "Beginner": [
+        "Install Python and Write Your First Script",
+        "Learn Basic Syntax and Data Types",
+        "Control Flow, Functions, and Error Handling",
+        "Work Through Tutorials",
+        {
+          "Resources": [
+            "https://www.python.org/about/gettingstarted/",
+            "https://realpython.com/tutorials/intermediate/",
+            "https://learn.microsoft.com/en-us/training/paths/beginner-python/"
+          ]
+        }
+      ],
+      "Intermediate": [
+        "Dive into OOP, Decorators, Context Managers",
+        "Learn About Iterators, Generators, and Web Scraping",
+        "Complete Intermediate Courses",
+        {
+          "Resources": [
+            "https://www.codecademy.com/learn/learn-intermediate-python-3",
+            "https://www.codecademy.com/learn/learn-advanced-python/",
+            "https://realpython.com/tutorials/advanced/"
+          ]
+        }
+      ],
+      "Advanced": [
+        "Study Advanced OOP, Metaclasses, and Asynchronous Programming",
+        "Optimize Memory Management and Learn Advanced Decorators",
+        "Complete Advanced Tutorials",
+        {
+          "Resources": [
+            "https://www.datacamp.com/courses/intermediate-python",
+            "https://www.geeksforgeeks.org/advanced-python-tutorials/",
+            "https://www.w3schools.com/python/"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "prompt": "Can you create a to-do list of items in increasing difficulty to learn Python from beginner to advanced using these links as resources?\nhttps://www.python.org/about/gettingstarted/\nhttps://learn.microsoft.com/en-us/training/paths/beginner-python/\nhttps://www.w3schools.com/python/\nhttps://realpython.com/tutorials/intermediate/\nhttps://www.datacamp.com/courses/intermediate-python\nhttps://www.codecademy.com/learn/learn-intermediate-python-3\nhttps://realpython.com/tutorials/advanced/\nhttps://www.geeksforgeeks.org/advanced-python-tutorials/\nhttps://www.codecademy.com/learn/learn-advanced-python/",
+    "completion": {
+      "Beginner": [
+        "Install Python and Write Your First Script",
+        "Learn Basic Syntax and Data Types",
+        "Control Flow, Functions, and Error Handling",
+        "Work Through Tutorials",
+        {
+          "Resources": [
+            "https://www.codecademy.com/learn/learn-advanced-python/",
+            "https://realpython.com/tutorials/intermediate/",
+            "https://www.datacamp.com/courses/intermediate-python"
+          ]
+        }
+      ],
+      "Intermediate": [
+        "Dive into OOP, Decorators, Context Managers",
+        "Learn About Iterators, Generators, and Web Scraping",
+        "Complete Intermediate Courses",
+        {
+          "Resources": [
+            "https://www.codecademy.com/learn/learn-intermediate-python-3",
+            "https://www.w3schools.com/python/",
+            "https://learn.microsoft.com/en-us/training/paths/beginner-python/"
+          ]
+        }
+      ],
+      "Advanced": [
+        "Study Advanced OOP, Metaclasses, and Asynchronous Programming",
+        "Optimize Memory Management and Learn Advanced Decorators",
+        "Complete Advanced Tutorials",
+        {
+          "Resources": [
+            "https://www.geeksforgeeks.org/advanced-python-tutorials/",
+            "https://www.python.org/about/gettingstarted/",
+            "https://realpython.com/tutorials/advanced/"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "prompt": "Can you create a to-do list of items in increasing difficulty to learn Python from beginner to advanced using these links as resources?\nhttps://www.python.org/about/gettingstarted/\nhttps://learn.microsoft.com/en-us/training/paths/beginner-python/\nhttps://www.w3schools.com/python/\nhttps://realpython.com/tutorials/intermediate/\nhttps://www.datacamp.com/courses/intermediate-python\nhttps://www.codecademy.com/learn/learn-intermediate-python-3\nhttps://realpython.com/tutorials/advanced/\nhttps://www.geeksforgeeks.org/advanced-python-tutorials/\nhttps://www.codecademy.com/learn/learn-advanced-python/",
+    "completion": {
+      "Beginner": [
+        "Install Python and Write Your First Script",
+        "Learn Basic Syntax and Data Types",
+        "Control Flow, Functions, and Error Handling",
+        "Work Through Tutorials",
+        {
+          "Resources": [
+            "https://realpython.com/tutorials/advanced/",
+            "https://www.w3schools.com/python/",
+            "https://www.codecademy.com/learn/learn-advanced-python/"
+          ]
+        }
+      ],
+      "Intermediate": [
+        "Dive into OOP, Decorators, Context Managers",
+        "Learn About Iterators, Generators, and Web Scraping",
+        "Complete Intermediate Courses",
+        {
+          "Resources": [
+            "https://www.python.org/about/gettingstarted/",
+            "https://www.codecademy.com/learn/learn-intermediate-python-3",
+            "https://www.datacamp.com/courses/intermediate-python"
+          ]
+        }
+      ],
+      "Advanced": [
+        "Study Advanced OOP, Metaclasses, and Asynchronous Programming",
+        "Optimize Memory Management and Learn Advanced Decorators",
+        "Complete Advanced Tutorials",
+        {
+          "Resources": [
+            "https://realpython.com/tutorials/intermediate/",
+            "https://www.geeksforgeeks.org/advanced-python-tutorials/",
+            "https://learn.microsoft.com/en-us/training/paths/beginner-python/"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "prompt": "Can you create a to-do list of items in increasing difficulty to learn Python from beginner to advanced using these links as resources?\nhttps://www.python.org/about/gettingstarted/\nhttps://learn.microsoft.com/en-us/training/paths/beginner-python/\nhttps://www.w3schools.com/python/\nhttps://realpython.com/tutorials/intermediate/\nhttps://www.datacamp.com/courses/intermediate-python\nhttps://www.codecademy.com/learn/learn-intermediate-python-3\nhttps://realpython.com/tutorials/advanced/\nhttps://www.geeksforgeeks.org/advanced-python-tutorials/\nhttps://www.codecademy.com/learn/learn-advanced-python/",
+    "completion": {
+      "Beginner": [
+        "Install Python and Write Your First Script",
+        "Learn Basic Syntax and Data Types",
+        "Control Flow, Functions, and Error Handling",
+        "Work Through Tutorials",
+        {
+          "Resources": [
+            "https://learn.microsoft.com/en-us/training/paths/beginner-python/",
+            "https://www.codecademy.com/learn/learn-intermediate-python-3",
+            "https://www.codecademy.com/learn/learn-advanced-python/"
+          ]
+        }
+      ],
+      "Intermediate": [
+        "Dive into OOP, Decorators, Context Managers",
+        "Learn About Iterators, Generators, and Web Scraping",
+        "Complete Intermediate Courses",
+        {
+          "Resources": [
+            "https://www.python.org/about/gettingstarted/",
+            "https://www.w3schools.com/python/",
+            "https://realpython.com/tutorials/intermediate/"
+          ]
+        }
+      ],
+      "Advanced": [
+        "Study Advanced OOP, Metaclasses, and Asynchronous Programming",
+        "Optimize Memory Management and Learn Advanced Decorators",
+        "Complete Advanced Tutorials",
+        {
+          "Resources": [
+            "https://www.datacamp.com/courses/intermediate-python",
+            "https://www.geeksforgeeks.org/advanced-python-tutorials/",
+            "https://realpython.com/tutorials/advanced/"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "prompt": "Can you create a to-do list of items in increasing difficulty to learn Python from beginner to advanced using these links as resources?\nhttps://www.python.org/about/gettingstarted/\nhttps://learn.microsoft.com/en-us/training/paths/beginner-python/\nhttps://www.w3schools.com/python/\nhttps://realpython.com/tutorials/intermediate/\nhttps://www.datacamp.com/courses/intermediate-python\nhttps://www.codecademy.com/learn/learn-intermediate-python-3\nhttps://realpython.com/tutorials/advanced/\nhttps://www.geeksforgeeks.org/advanced-python-tutorials/\nhttps://www.codecademy.com/learn/learn-advanced-python/",
+    "completion": {
+      "Beginner": [
+        "Install Python and Write Your First Script",
+        "Learn Basic Syntax and Data Types",
+        "Control Flow, Functions, and Error Handling",
+        "Work Through Tutorials",
+        {
+          "Resources": [
+            "https://www.w3schools.com/python/",
+            "https://realpython.com/tutorials/intermediate/",
+            "https://realpython.com/tutorials/advanced/"
+          ]
+        }
+      ],
+      "Intermediate": [
+        "Dive into OOP, Decorators, Context Managers",
+        "Learn About Iterators, Generators, and Web Scraping",
+        "Complete Intermediate Courses",
+        {
+          "Resources": [
+            "https://www.geeksforgeeks.org/advanced-python-tutorials/",
+            "https://www.datacamp.com/courses/intermediate-python",
+            "https://www.codecademy.com/learn/learn-intermediate-python-3"
+          ]
+        }
+      ],
+      "Advanced": [
+        "Study Advanced OOP, Metaclasses, and Asynchronous Programming",
+        "Optimize Memory Management and Learn Advanced Decorators",
+        "Complete Advanced Tutorials",
+        {
+          "Resources": [
+            "https://learn.microsoft.com/en-us/training/paths/beginner-python/",
+            "https://www.python.org/about/gettingstarted/",
+            "https://www.codecademy.com/learn/learn-advanced-python/"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "prompt": "Can you create a to-do list of items in increasing difficulty to learn Python from beginner to advanced using these links as resources?\nhttps://www.python.org/about/gettingstarted/\nhttps://learn.microsoft.com/en-us/training/paths/beginner-python/\nhttps://www.w3schools.com/python/\nhttps://realpython.com/tutorials/intermediate/\nhttps://www.datacamp.com/courses/intermediate-python\nhttps://www.codecademy.com/learn/learn-intermediate-python-3\nhttps://realpython.com/tutorials/advanced/\nhttps://www.geeksforgeeks.org/advanced-python-tutorials/\nhttps://www.codecademy.com/learn/learn-advanced-python/",
+    "completion": {
+      "Beginner": [
+        "Install Python and Write Your First Script",
+        "Learn Basic Syntax and Data Types",
+        "Control Flow, Functions, and Error Handling",
+        "Work Through Tutorials",
+        {
+          "Resources": [
+            "https://www.codecademy.com/learn/learn-intermediate-python-3",
+            "https://www.python.org/about/gettingstarted/",
+            "https://www.datacamp.com/courses/intermediate-python"
+          ]
+        }
+      ],
+      "Intermediate": [
+        "Dive into OOP, Decorators, Context Managers",
+        "Learn About Iterators, Generators, and Web Scraping",
+        "Complete Intermediate Courses",
+        {
+          "Resources": [
+            "https://realpython.com/tutorials/advanced/",
+            "https://www.geeksforgeeks.org/advanced-python-tutorials/",
+            "https://www.codecademy.com/learn/learn-advanced-python/"
+          ]
+        }
+      ],
+      "Advanced": [
+        "Study Advanced OOP, Metaclasses, and Asynchronous Programming",
+        "Optimize Memory Management and Learn Advanced Decorators",
+        "Complete Advanced Tutorials",
+        {
+          "Resources": [
+            "https://learn.microsoft.com/en-us/training/paths/beginner-python/",
+            "https://www.w3schools.com/python/",
+            "https://realpython.com/tutorials/intermediate/"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "prompt": "Can you create a to-do list of items in increasing difficulty to learn Python from beginner to advanced using these links as resources?\nhttps://www.python.org/about/gettingstarted/\nhttps://learn.microsoft.com/en-us/training/paths/beginner-python/\nhttps://www.w3schools.com/python/\nhttps://realpython.com/tutorials/intermediate/\nhttps://www.datacamp.com/courses/intermediate-python\nhttps://www.codecademy.com/learn/learn-intermediate-python-3\nhttps://realpython.com/tutorials/advanced/\nhttps://www.geeksforgeeks.org/advanced-python-tutorials/\nhttps://www.codecademy.com/learn/learn-advanced-python/",
+    "completion": {
+      "Beginner": [
+        "Install Python and Write Your First Script",
+        "Learn Basic Syntax and Data Types",
+        "Control Flow, Functions, and Error Handling",
+        "Work Through Tutorials",
+        {
+          "Resources": [
+            "https://www.geeksforgeeks.org/advanced-python-tutorials/",
+            "https://www.w3schools.com/python/",
+            "https://www.codecademy.com/learn/learn-intermediate-python-3"
+          ]
+        }
+      ],
+      "Intermediate": [
+        "Dive into OOP, Decorators, Context Managers",
+        "Learn About Iterators, Generators, and Web Scraping",
+        "Complete Intermediate Courses",
+        {
+          "Resources": [
+            "https://realpython.com/tutorials/intermediate/",
+            "https://learn.microsoft.com/en-us/training/paths/beginner-python/",
+            "https://www.datacamp.com/courses/intermediate-python"
+          ]
+        }
+      ],
+      "Advanced": [
+        "Study Advanced OOP, Metaclasses, and Asynchronous Programming",
+        "Optimize Memory Management and Learn Advanced Decorators",
+        "Complete Advanced Tutorials",
+        {
+          "Resources": [
+            "https://www.codecademy.com/learn/learn-advanced-python/",
+            "https://realpython.com/tutorials/advanced/",
+            "https://www.python.org/about/gettingstarted/"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "prompt": "Can you create a to-do list of items in increasing difficulty to learn Python from beginner to advanced using these links as resources?\nhttps://www.python.org/about/gettingstarted/\nhttps://learn.microsoft.com/en-us/training/paths/beginner-python/\nhttps://www.w3schools.com/python/\nhttps://realpython.com/tutorials/intermediate/\nhttps://www.datacamp.com/courses/intermediate-python\nhttps://www.codecademy.com/learn/learn-intermediate-python-3\nhttps://realpython.com/tutorials/advanced/\nhttps://www.geeksforgeeks.org/advanced-python-tutorials/\nhttps://www.codecademy.com/learn/learn-advanced-python/",
+    "completion": {
+      "Beginner": [
+        "Install Python and Write Your First Script",
+        "Learn Basic Syntax and Data Types",
+        "Control Flow, Functions, and Error Handling",
+        "Work Through Tutorials",
+        {
+          "Resources": [
+            "https://www.datacamp.com/courses/intermediate-python",
+            "https://www.codecademy.com/learn/learn-intermediate-python-3",
+            "https://www.geeksforgeeks.org/advanced-python-tutorials/"
+          ]
+        }
+      ],
+      "Intermediate": [
+        "Dive into OOP, Decorators, Context Managers",
+        "Learn About Iterators, Generators, and Web Scraping",
+        "Complete Intermediate Courses",
+        {
+          "Resources": [
+            "https://www.codecademy.com/learn/learn-advanced-python/",
+            "https://realpython.com/tutorials/intermediate/",
+            "https://learn.microsoft.com/en-us/training/paths/beginner-python/"
+          ]
+        }
+      ],
+      "Advanced": [
+        "Study Advanced OOP, Metaclasses, and Asynchronous Programming",
+        "Optimize Memory Management and Learn Advanced Decorators",
+        "Complete Advanced Tutorials",
+        {
+          "Resources": [
+            "https://www.w3schools.com/python/",
+            "https://www.python.org/about/gettingstarted/",
+            "https://realpython.com/tutorials/advanced/"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "prompt": "Can you create a to-do list of items in increasing difficulty to learn Python from beginner to advanced using these links as resources?\nhttps://www.python.org/about/gettingstarted/\nhttps://learn.microsoft.com/en-us/training/paths/beginner-python/\nhttps://www.w3schools.com/python/\nhttps://realpython.com/tutorials/intermediate/\nhttps://www.datacamp.com/courses/intermediate-python\nhttps://www.codecademy.com/learn/learn-intermediate-python-3\nhttps://realpython.com/tutorials/advanced/\nhttps://www.geeksforgeeks.org/advanced-python-tutorials/\nhttps://www.codecademy.com/learn/learn-advanced-python/",
+    "completion": {
+      "Beginner": [
+        "Install Python and Write Your First Script",
+        "Learn Basic Syntax and Data Types",
+        "Control Flow, Functions, and Error Handling",
+        "Work Through Tutorials",
+        {
+          "Resources": [
+            "https://realpython.com/tutorials/intermediate/",
+            "https://www.codecademy.com/learn/learn-intermediate-python-3",
+            "https://www.codecademy.com/learn/learn-advanced-python/"
+          ]
+        }
+      ],
+      "Intermediate": [
+        "Dive into OOP, Decorators, Context Managers",
+        "Learn About Iterators, Generators, and Web Scraping",
+        "Complete Intermediate Courses",
+        {
+          "Resources": [
+            "https://www.datacamp.com/courses/intermediate-python",
+            "https://www.geeksforgeeks.org/advanced-python-tutorials/",
+            "https://realpython.com/tutorials/advanced/"
+          ]
+        }
+      ],
+      "Advanced": [
+        "Study Advanced OOP, Metaclasses, and Asynchronous Programming",
+        "Optimize Memory Management and Learn Advanced Decorators",
+        "Complete Advanced Tutorials",
+        {
+          "Resources": [
+            "https://www.w3schools.com/python/",
+            "https://learn.microsoft.com/en-us/training/paths/beginner-python/",
+            "https://www.python.org/about/gettingstarted/"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "prompt": "Can you create a to-do list of items in increasing difficulty to learn Python from beginner to advanced using these links as resources?\nhttps://www.python.org/about/gettingstarted/\nhttps://learn.microsoft.com/en-us/training/paths/beginner-python/\nhttps://www.w3schools.com/python/\nhttps://realpython.com/tutorials/intermediate/\nhttps://www.datacamp.com/courses/intermediate-python\nhttps://www.codecademy.com/learn/learn-intermediate-python-3\nhttps://realpython.com/tutorials/advanced/\nhttps://www.geeksforgeeks.org/advanced-python-tutorials/\nhttps://www.codecademy.com/learn/learn-advanced-python/",
+    "completion": {
+      "Beginner": [
+        "Install Python and Write Your First Script",
+        "Learn Basic Syntax and Data Types",
+        "Control Flow, Functions, and Error Handling",
+        "Work Through Tutorials",
+        {
+          "Resources": [
+            "https://www.codecademy.com/learn/learn-intermediate-python-3",
+            "https://www.codecademy.com/learn/learn-advanced-python/",
+            "https://realpython.com/tutorials/advanced/"
+          ]
+        }
+      ],
+      "Intermediate": [
+        "Dive into OOP, Decorators, Context Managers",
+        "Learn About Iterators, Generators, and Web Scraping",
+        "Complete Intermediate Courses",
+        {
+          "Resources": [
+            "https://www.datacamp.com/courses/intermediate-python",
+            "https://www.w3schools.com/python/",
+            "https://realpython.com/tutorials/intermediate/"
+          ]
+        }
+      ],
+      "Advanced": [
+        "Study Advanced OOP, Metaclasses, and Asynchronous Programming",
+        "Optimize Memory Management and Learn Advanced Decorators",
+        "Complete Advanced Tutorials",
+        {
+          "Resources": [
+            "https://www.python.org/about/gettingstarted/",
+            "https://learn.microsoft.com/en-us/training/paths/beginner-python/",
+            "https://www.geeksforgeeks.org/advanced-python-tutorials/"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "prompt": "Can you create a to-do list of items in increasing difficulty to learn Python from beginner to advanced using these links as resources?\nhttps://www.python.org/about/gettingstarted/\nhttps://learn.microsoft.com/en-us/training/paths/beginner-python/\nhttps://www.w3schools.com/python/\nhttps://realpython.com/tutorials/intermediate/\nhttps://www.datacamp.com/courses/intermediate-python\nhttps://www.codecademy.com/learn/learn-intermediate-python-3\nhttps://realpython.com/tutorials/advanced/\nhttps://www.geeksforgeeks.org/advanced-python-tutorials/\nhttps://www.codecademy.com/learn/learn-advanced-python/",
+    "completion": {
+      "Beginner": [
+        "Install Python and Write Your First Script",
+        "Learn Basic Syntax and Data Types",
+        "Control Flow, Functions, and Error Handling",
+        "Work Through Tutorials",
+        {
+          "Resources": [
+            "https://www.geeksforgeeks.org/advanced-python-tutorials/",
+            "https://realpython.com/tutorials/advanced/",
+            "https://www.w3schools.com/python/"
+          ]
+        }
+      ],
+      "Intermediate": [
+        "Dive into OOP, Decorators, Context Managers",
+        "Learn About Iterators, Generators, and Web Scraping",
+        "Complete Intermediate Courses",
+        {
+          "Resources": [
+            "https://www.codecademy.com/learn/learn-advanced-python/",
+            "https://www.python.org/about/gettingstarted/",
+            "https://www.datacamp.com/courses/intermediate-python"
+          ]
+        }
+      ],
+      "Advanced": [
+        "Study Advanced OOP, Metaclasses, and Asynchronous Programming",
+        "Optimize Memory Management and Learn Advanced Decorators",
+        "Complete Advanced Tutorials",
+        {
+          "Resources": [
+            "https://learn.microsoft.com/en-us/training/paths/beginner-python/",
+            "https://www.codecademy.com/learn/learn-intermediate-python-3",
+            "https://realpython.com/tutorials/intermediate/"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "prompt": "Can you create a to-do list of items in increasing difficulty to learn Python from beginner to advanced using these links as resources?\nhttps://www.python.org/about/gettingstarted/\nhttps://learn.microsoft.com/en-us/training/paths/beginner-python/\nhttps://www.w3schools.com/python/\nhttps://realpython.com/tutorials/intermediate/\nhttps://www.datacamp.com/courses/intermediate-python\nhttps://www.codecademy.com/learn/learn-intermediate-python-3\nhttps://realpython.com/tutorials/advanced/\nhttps://www.geeksforgeeks.org/advanced-python-tutorials/\nhttps://www.codecademy.com/learn/learn-advanced-python/",
+    "completion": {
+      "Beginner": [
+        "Install Python and Write Your First Script",
+        "Learn Basic Syntax and Data Types",
+        "Control Flow, Functions, and Error Handling",
+        "Work Through Tutorials",
+        {
+          "Resources": [
+            "https://www.w3schools.com/python/",
+            "https://www.geeksforgeeks.org/advanced-python-tutorials/",
+            "https://www.datacamp.com/courses/intermediate-python"
+          ]
+        }
+      ],
+      "Intermediate": [
+        "Dive into OOP, Decorators, Context Managers",
+        "Learn About Iterators, Generators, and Web Scraping",
+        "Complete Intermediate Courses",
+        {
+          "Resources": [
+            "https://www.codecademy.com/learn/learn-intermediate-python-3",
+            "https://www.python.org/about/gettingstarted/",
+            "https://learn.microsoft.com/en-us/training/paths/beginner-python/"
+          ]
+        }
+      ],
+      "Advanced": [
+        "Study Advanced OOP, Metaclasses, and Asynchronous Programming",
+        "Optimize Memory Management and Learn Advanced Decorators",
+        "Complete Advanced Tutorials",
+        {
+          "Resources": [
+            "https://www.codecademy.com/learn/learn-advanced-python/",
+            "https://realpython.com/tutorials/advanced/",
+            "https://realpython.com/tutorials/intermediate/"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "prompt": "Can you create a to-do list of items in increasing difficulty to learn Python from beginner to advanced using these links as resources?\nhttps://www.python.org/about/gettingstarted/\nhttps://learn.microsoft.com/en-us/training/paths/beginner-python/\nhttps://www.w3schools.com/python/\nhttps://realpython.com/tutorials/intermediate/\nhttps://www.datacamp.com/courses/intermediate-python\nhttps://www.codecademy.com/learn/learn-intermediate-python-3\nhttps://realpython.com/tutorials/advanced/\nhttps://www.geeksforgeeks.org/advanced-python-tutorials/\nhttps://www.codecademy.com/learn/learn-advanced-python/",
+    "completion": {
+      "Beginner": [
+        "Install Python and Write Your First Script",
+        "Learn Basic Syntax and Data Types",
+        "Control Flow, Functions, and Error Handling",
+        "Work Through Tutorials",
+        {
+          "Resources": [
+            "https://realpython.com/tutorials/intermediate/",
+            "https://realpython.com/tutorials/advanced/",
+            "https://www.python.org/about/gettingstarted/"
+          ]
+        }
+      ],
+      "Intermediate": [
+        "Dive into OOP, Decorators, Context Managers",
+        "Learn About Iterators, Generators, and Web Scraping",
+        "Complete Intermediate Courses",
+        {
+          "Resources": [
+            "https://www.datacamp.com/courses/intermediate-python",
+            "https://www.codecademy.com/learn/learn-advanced-python/",
+            "https://www.codecademy.com/learn/learn-intermediate-python-3"
+          ]
+        }
+      ],
+      "Advanced": [
+        "Study Advanced OOP, Metaclasses, and Asynchronous Programming",
+        "Optimize Memory Management and Learn Advanced Decorators",
+        "Complete Advanced Tutorials",
+        {
+          "Resources": [
+            "https://www.w3schools.com/python/",
+            "https://www.geeksforgeeks.org/advanced-python-tutorials/",
+            "https://learn.microsoft.com/en-us/training/paths/beginner-python/"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "prompt": "Can you create a to-do list of items in increasing difficulty to learn Python from beginner to advanced using these links as resources?\nhttps://www.python.org/about/gettingstarted/\nhttps://learn.microsoft.com/en-us/training/paths/beginner-python/\nhttps://www.w3schools.com/python/\nhttps://realpython.com/tutorials/intermediate/\nhttps://www.datacamp.com/courses/intermediate-python\nhttps://www.codecademy.com/learn/learn-intermediate-python-3\nhttps://realpython.com/tutorials/advanced/\nhttps://www.geeksforgeeks.org/advanced-python-tutorials/\nhttps://www.codecademy.com/learn/learn-advanced-python/",
+    "completion": {
+      "Beginner": [
+        "Install Python and Write Your First Script",
+        "Learn Basic Syntax and Data Types",
+        "Control Flow, Functions, and Error Handling",
+        "Work Through Tutorials",
+        {
+          "Resources": [
+            "https://www.geeksforgeeks.org/advanced-python-tutorials/",
+            "https://www.codecademy.com/learn/learn-advanced-python/",
+            "https://learn.microsoft.com/en-us/training/paths/beginner-python/"
+          ]
+        }
+      ],
+      "Intermediate": [
+        "Dive into OOP, Decorators, Context Managers",
+        "Learn About Iterators, Generators, and Web Scraping",
+        "Complete Intermediate Courses",
+        {
+          "Resources": [
+            "https://www.python.org/about/gettingstarted/",
+            "https://www.codecademy.com/learn/learn-intermediate-python-3",
+            "https://realpython.com/tutorials/advanced/"
+          ]
+        }
+      ],
+      "Advanced": [
+        "Study Advanced OOP, Metaclasses, and Asynchronous Programming",
+        "Optimize Memory Management and Learn Advanced Decorators",
+        "Complete Advanced Tutorials",
+        {
+          "Resources": [
+            "https://realpython.com/tutorials/intermediate/",
+            "https://www.w3schools.com/python/",
+            "https://www.datacamp.com/courses/intermediate-python"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "prompt": "Can you create a to-do list of items in increasing difficulty to learn Python from beginner to advanced using these links as resources?\nhttps://www.python.org/about/gettingstarted/\nhttps://learn.microsoft.com/en-us/training/paths/beginner-python/\nhttps://www.w3schools.com/python/\nhttps://realpython.com/tutorials/intermediate/\nhttps://www.datacamp.com/courses/intermediate-python\nhttps://www.codecademy.com/learn/learn-intermediate-python-3\nhttps://realpython.com/tutorials/advanced/\nhttps://www.geeksforgeeks.org/advanced-python-tutorials/\nhttps://www.codecademy.com/learn/learn-advanced-python/",
+    "completion": {
+      "Beginner": [
+        "Install Python and Write Your First Script",
+        "Learn Basic Syntax and Data Types",
+        "Control Flow, Functions, and Error Handling",
+        "Work Through Tutorials",
+        {
+          "Resources": [
+            "https://www.codecademy.com/learn/learn-advanced-python/",
+            "https://learn.microsoft.com/en-us/training/paths/beginner-python/",
+            "https://www.geeksforgeeks.org/advanced-python-tutorials/"
+          ]
+        }
+      ],
+      "Intermediate": [
+        "Dive into OOP, Decorators, Context Managers",
+        "Learn About Iterators, Generators, and Web Scraping",
+        "Complete Intermediate Courses",
+        {
+          "Resources": [
+            "https://www.python.org/about/gettingstarted/",
+            "https://www.datacamp.com/courses/intermediate-python",
+            "https://realpython.com/tutorials/advanced/"
+          ]
+        }
+      ],
+      "Advanced": [
+        "Study Advanced OOP, Metaclasses, and Asynchronous Programming",
+        "Optimize Memory Management and Learn Advanced Decorators",
+        "Complete Advanced Tutorials",
+        {
+          "Resources": [
+            "https://www.codecademy.com/learn/learn-intermediate-python-3",
+            "https://realpython.com/tutorials/intermediate/",
+            "https://www.w3schools.com/python/"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "prompt": "Can you create a to-do list of items in increasing difficulty to learn Python from beginner to advanced using these links as resources?\nhttps://www.python.org/about/gettingstarted/\nhttps://learn.microsoft.com/en-us/training/paths/beginner-python/\nhttps://www.w3schools.com/python/\nhttps://realpython.com/tutorials/intermediate/\nhttps://www.datacamp.com/courses/intermediate-python\nhttps://www.codecademy.com/learn/learn-intermediate-python-3\nhttps://realpython.com/tutorials/advanced/\nhttps://www.geeksforgeeks.org/advanced-python-tutorials/\nhttps://www.codecademy.com/learn/learn-advanced-python/",
+    "completion": {
+      "Beginner": [
+        "Install Python and Write Your First Script",
+        "Learn Basic Syntax and Data Types",
+        "Control Flow, Functions, and Error Handling",
+        "Work Through Tutorials",
+        {
+          "Resources": [
+            "https://realpython.com/tutorials/intermediate/",
+            "https://www.codecademy.com/learn/learn-advanced-python/",
+            "https://www.python.org/about/gettingstarted/"
+          ]
+        }
+      ],
+      "Intermediate": [
+        "Dive into OOP, Decorators, Context Managers",
+        "Learn About Iterators, Generators, and Web Scraping",
+        "Complete Intermediate Courses",
+        {
+          "Resources": [
+            "https://www.codecademy.com/learn/learn-intermediate-python-3",
+            "https://learn.microsoft.com/en-us/training/paths/beginner-python/",
+            "https://www.datacamp.com/courses/intermediate-python"
+          ]
+        }
+      ],
+      "Advanced": [
+        "Study Advanced OOP, Metaclasses, and Asynchronous Programming",
+        "Optimize Memory Management and Learn Advanced Decorators",
+        "Complete Advanced Tutorials",
+        {
+          "Resources": [
+            "https://www.w3schools.com/python/",
+            "https://www.geeksforgeeks.org/advanced-python-tutorials/",
+            "https://realpython.com/tutorials/advanced/"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "prompt": "Can you create a to-do list of items in increasing difficulty to learn Python from beginner to advanced using these links as resources?\nhttps://www.python.org/about/gettingstarted/\nhttps://learn.microsoft.com/en-us/training/paths/beginner-python/\nhttps://www.w3schools.com/python/\nhttps://realpython.com/tutorials/intermediate/\nhttps://www.datacamp.com/courses/intermediate-python\nhttps://www.codecademy.com/learn/learn-intermediate-python-3\nhttps://realpython.com/tutorials/advanced/\nhttps://www.geeksforgeeks.org/advanced-python-tutorials/\nhttps://www.codecademy.com/learn/learn-advanced-python/",
+    "completion": {
+      "Beginner": [
+        "Install Python and Write Your First Script",
+        "Learn Basic Syntax and Data Types",
+        "Control Flow, Functions, and Error Handling",
+        "Work Through Tutorials",
+        {
+          "Resources": [
+            "https://realpython.com/tutorials/intermediate/",
+            "https://www.codecademy.com/learn/learn-intermediate-python-3",
+            "https://realpython.com/tutorials/advanced/"
+          ]
+        }
+      ],
+      "Intermediate": [
+        "Dive into OOP, Decorators, Context Managers",
+        "Learn About Iterators, Generators, and Web Scraping",
+        "Complete Intermediate Courses",
+        {
+          "Resources": [
+            "https://www.python.org/about/gettingstarted/",
+            "https://www.geeksforgeeks.org/advanced-python-tutorials/",
+            "https://www.w3schools.com/python/"
+          ]
+        }
+      ],
+      "Advanced": [
+        "Study Advanced OOP, Metaclasses, and Asynchronous Programming",
+        "Optimize Memory Management and Learn Advanced Decorators",
+        "Complete Advanced Tutorials",
+        {
+          "Resources": [
+            "https://www.datacamp.com/courses/intermediate-python",
+            "https://www.codecademy.com/learn/learn-advanced-python/",
+            "https://learn.microsoft.com/en-us/training/paths/beginner-python/"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "prompt": "Can you create a to-do list of items in increasing difficulty to learn Python from beginner to advanced using these links as resources?\nhttps://www.python.org/about/gettingstarted/\nhttps://learn.microsoft.com/en-us/training/paths/beginner-python/\nhttps://www.w3schools.com/python/\nhttps://realpython.com/tutorials/intermediate/\nhttps://www.datacamp.com/courses/intermediate-python\nhttps://www.codecademy.com/learn/learn-intermediate-python-3\nhttps://realpython.com/tutorials/advanced/\nhttps://www.geeksforgeeks.org/advanced-python-tutorials/\nhttps://www.codecademy.com/learn/learn-advanced-python/",
+    "completion": {
+      "Beginner": [
+        "Install Python and Write Your First Script",
+        "Learn Basic Syntax and Data Types",
+        "Control Flow, Functions, and Error Handling",
+        "Work Through Tutorials",
+        {
+          "Resources": [
+            "https://www.codecademy.com/learn/learn-intermediate-python-3",
+            "https://learn.microsoft.com/en-us/training/paths/beginner-python/",
+            "https://realpython.com/tutorials/advanced/"
+          ]
+        }
+      ],
+      "Intermediate": [
+        "Dive into OOP, Decorators, Context Managers",
+        "Learn About Iterators, Generators, and Web Scraping",
+        "Complete Intermediate Courses",
+        {
+          "Resources": [
+            "https://realpython.com/tutorials/intermediate/",
+            "https://www.codecademy.com/learn/learn-advanced-python/",
+            "https://www.geeksforgeeks.org/advanced-python-tutorials/"
+          ]
+        }
+      ],
+      "Advanced": [
+        "Study Advanced OOP, Metaclasses, and Asynchronous Programming",
+        "Optimize Memory Management and Learn Advanced Decorators",
+        "Complete Advanced Tutorials",
+        {
+          "Resources": [
+            "https://www.datacamp.com/courses/intermediate-python",
+            "https://www.w3schools.com/python/",
+            "https://www.python.org/about/gettingstarted/"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "prompt": "Can you create a to-do list of items in increasing difficulty to learn Python from beginner to advanced using these links as resources?\nhttps://www.python.org/about/gettingstarted/\nhttps://learn.microsoft.com/en-us/training/paths/beginner-python/\nhttps://www.w3schools.com/python/\nhttps://realpython.com/tutorials/intermediate/\nhttps://www.datacamp.com/courses/intermediate-python\nhttps://www.codecademy.com/learn/learn-intermediate-python-3\nhttps://realpython.com/tutorials/advanced/\nhttps://www.geeksforgeeks.org/advanced-python-tutorials/\nhttps://www.codecademy.com/learn/learn-advanced-python/",
+    "completion": {
+      "Beginner": [
+        "Install Python and Write Your First Script",
+        "Learn Basic Syntax and Data Types",
+        "Control Flow, Functions, and Error Handling",
+        "Work Through Tutorials",
+        {
+          "Resources": [
+            "https://learn.microsoft.com/en-us/training/paths/beginner-python/",
+            "https://realpython.com/tutorials/intermediate/",
+            "https://www.datacamp.com/courses/intermediate-python"
+          ]
+        }
+      ],
+      "Intermediate": [
+        "Dive into OOP, Decorators, Context Managers",
+        "Learn About Iterators, Generators, and Web Scraping",
+        "Complete Intermediate Courses",
+        {
+          "Resources": [
+            "https://www.python.org/about/gettingstarted/",
+            "https://www.w3schools.com/python/",
+            "https://realpython.com/tutorials/advanced/"
+          ]
+        }
+      ],
+      "Advanced": [
+        "Study Advanced OOP, Metaclasses, and Asynchronous Programming",
+        "Optimize Memory Management and Learn Advanced Decorators",
+        "Complete Advanced Tutorials",
+        {
+          "Resources": [
+            "https://www.geeksforgeeks.org/advanced-python-tutorials/",
+            "https://www.codecademy.com/learn/learn-advanced-python/",
+            "https://www.codecademy.com/learn/learn-intermediate-python-3"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "prompt": "Can you create a to-do list of items in increasing difficulty to learn Python from beginner to advanced using these links as resources?\nhttps://www.python.org/about/gettingstarted/\nhttps://learn.microsoft.com/en-us/training/paths/beginner-python/\nhttps://www.w3schools.com/python/\nhttps://realpython.com/tutorials/intermediate/\nhttps://www.datacamp.com/courses/intermediate-python\nhttps://www.codecademy.com/learn/learn-intermediate-python-3\nhttps://realpython.com/tutorials/advanced/\nhttps://www.geeksforgeeks.org/advanced-python-tutorials/\nhttps://www.codecademy.com/learn/learn-advanced-python/",
+    "completion": {
+      "Beginner": [
+        "Install Python and Write Your First Script",
+        "Learn Basic Syntax and Data Types",
+        "Control Flow, Functions, and Error Handling",
+        "Work Through Tutorials",
+        {
+          "Resources": [
+            "https://realpython.com/tutorials/intermediate/",
+            "https://www.datacamp.com/courses/intermediate-python",
+            "https://www.codecademy.com/learn/learn-intermediate-python-3"
+          ]
+        }
+      ],
+      "Intermediate": [
+        "Dive into OOP, Decorators, Context Managers",
+        "Learn About Iterators, Generators, and Web Scraping",
+        "Complete Intermediate Courses",
+        {
+          "Resources": [
+            "https://www.geeksforgeeks.org/advanced-python-tutorials/",
+            "https://learn.microsoft.com/en-us/training/paths/beginner-python/",
+            "https://www.python.org/about/gettingstarted/"
+          ]
+        }
+      ],
+      "Advanced": [
+        "Study Advanced OOP, Metaclasses, and Asynchronous Programming",
+        "Optimize Memory Management and Learn Advanced Decorators",
+        "Complete Advanced Tutorials",
+        {
+          "Resources": [
+            "https://www.w3schools.com/python/",
+            "https://realpython.com/tutorials/advanced/",
+            "https://www.codecademy.com/learn/learn-advanced-python/"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "prompt": "Can you create a to-do list of items in increasing difficulty to learn Python from beginner to advanced using these links as resources?\nhttps://www.python.org/about/gettingstarted/\nhttps://learn.microsoft.com/en-us/training/paths/beginner-python/\nhttps://www.w3schools.com/python/\nhttps://realpython.com/tutorials/intermediate/\nhttps://www.datacamp.com/courses/intermediate-python\nhttps://www.codecademy.com/learn/learn-intermediate-python-3\nhttps://realpython.com/tutorials/advanced/\nhttps://www.geeksforgeeks.org/advanced-python-tutorials/\nhttps://www.codecademy.com/learn/learn-advanced-python/",
+    "completion": {
+      "Beginner": [
+        "Install Python and Write Your First Script",
+        "Learn Basic Syntax and Data Types",
+        "Control Flow, Functions, and Error Handling",
+        "Work Through Tutorials",
+        {
+          "Resources": [
+            "https://www.codecademy.com/learn/learn-intermediate-python-3",
+            "https://www.datacamp.com/courses/intermediate-python",
+            "https://realpython.com/tutorials/intermediate/"
+          ]
+        }
+      ],
+      "Intermediate": [
+        "Dive into OOP, Decorators, Context Managers",
+        "Learn About Iterators, Generators, and Web Scraping",
+        "Complete Intermediate Courses",
+        {
+          "Resources": [
+            "https://realpython.com/tutorials/advanced/",
+            "https://www.python.org/about/gettingstarted/",
+            "https://www.w3schools.com/python/"
+          ]
+        }
+      ],
+      "Advanced": [
+        "Study Advanced OOP, Metaclasses, and Asynchronous Programming",
+        "Optimize Memory Management and Learn Advanced Decorators",
+        "Complete Advanced Tutorials",
+        {
+          "Resources": [
+            "https://learn.microsoft.com/en-us/training/paths/beginner-python/",
+            "https://www.codecademy.com/learn/learn-advanced-python/",
+            "https://www.geeksforgeeks.org/advanced-python-tutorials/"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "prompt": "Can you create a to-do list of items in increasing difficulty to learn Python from beginner to advanced using these links as resources?\nhttps://www.python.org/about/gettingstarted/\nhttps://learn.microsoft.com/en-us/training/paths/beginner-python/\nhttps://www.w3schools.com/python/\nhttps://realpython.com/tutorials/intermediate/\nhttps://www.datacamp.com/courses/intermediate-python\nhttps://www.codecademy.com/learn/learn-intermediate-python-3\nhttps://realpython.com/tutorials/advanced/\nhttps://www.geeksforgeeks.org/advanced-python-tutorials/\nhttps://www.codecademy.com/learn/learn-advanced-python/",
+    "completion": {
+      "Beginner": [
+        "Install Python and Write Your First Script",
+        "Learn Basic Syntax and Data Types",
+        "Control Flow, Functions, and Error Handling",
+        "Work Through Tutorials",
+        {
+          "Resources": [
+            "https://www.w3schools.com/python/",
+            "https://realpython.com/tutorials/advanced/",
+            "https://learn.microsoft.com/en-us/training/paths/beginner-python/"
+          ]
+        }
+      ],
+      "Intermediate": [
+        "Dive into OOP, Decorators, Context Managers",
+        "Learn About Iterators, Generators, and Web Scraping",
+        "Complete Intermediate Courses",
+        {
+          "Resources": [
+            "https://www.codecademy.com/learn/learn-intermediate-python-3",
+            "https://www.python.org/about/gettingstarted/",
+            "https://www.geeksforgeeks.org/advanced-python-tutorials/"
+          ]
+        }
+      ],
+      "Advanced": [
+        "Study Advanced OOP, Metaclasses, and Asynchronous Programming",
+        "Optimize Memory Management and Learn Advanced Decorators",
+        "Complete Advanced Tutorials",
+        {
+          "Resources": [
+            "https://www.codecademy.com/learn/learn-advanced-python/",
+            "https://www.datacamp.com/courses/intermediate-python",
+            "https://realpython.com/tutorials/intermediate/"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "prompt": "Can you create a to-do list of items in increasing difficulty to learn Python from beginner to advanced using these links as resources?\nhttps://www.python.org/about/gettingstarted/\nhttps://learn.microsoft.com/en-us/training/paths/beginner-python/\nhttps://www.w3schools.com/python/\nhttps://realpython.com/tutorials/intermediate/\nhttps://www.datacamp.com/courses/intermediate-python\nhttps://www.codecademy.com/learn/learn-intermediate-python-3\nhttps://realpython.com/tutorials/advanced/\nhttps://www.geeksforgeeks.org/advanced-python-tutorials/\nhttps://www.codecademy.com/learn/learn-advanced-python/",
+    "completion": {
+      "Beginner": [
+        "Install Python and Write Your First Script",
+        "Learn Basic Syntax and Data Types",
+        "Control Flow, Functions, and Error Handling",
+        "Work Through Tutorials",
+        {
+          "Resources": [
+            "https://www.datacamp.com/courses/intermediate-python",
+            "https://www.codecademy.com/learn/learn-intermediate-python-3",
+            "https://realpython.com/tutorials/intermediate/"
+          ]
+        }
+      ],
+      "Intermediate": [
+        "Dive into OOP, Decorators, Context Managers",
+        "Learn About Iterators, Generators, and Web Scraping",
+        "Complete Intermediate Courses",
+        {
+          "Resources": [
+            "https://www.w3schools.com/python/",
+            "https://www.codecademy.com/learn/learn-advanced-python/",
+            "https://www.python.org/about/gettingstarted/"
+          ]
+        }
+      ],
+      "Advanced": [
+        "Study Advanced OOP, Metaclasses, and Asynchronous Programming",
+        "Optimize Memory Management and Learn Advanced Decorators",
+        "Complete Advanced Tutorials",
+        {
+          "Resources": [
+            "https://www.geeksforgeeks.org/advanced-python-tutorials/",
+            "https://realpython.com/tutorials/advanced/",
+            "https://learn.microsoft.com/en-us/training/paths/beginner-python/"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "prompt": "Can you create a to-do list of items in increasing difficulty to learn Python from beginner to advanced using these links as resources?\nhttps://www.python.org/about/gettingstarted/\nhttps://learn.microsoft.com/en-us/training/paths/beginner-python/\nhttps://www.w3schools.com/python/\nhttps://realpython.com/tutorials/intermediate/\nhttps://www.datacamp.com/courses/intermediate-python\nhttps://www.codecademy.com/learn/learn-intermediate-python-3\nhttps://realpython.com/tutorials/advanced/\nhttps://www.geeksforgeeks.org/advanced-python-tutorials/\nhttps://www.codecademy.com/learn/learn-advanced-python/",
+    "completion": {
+      "Beginner": [
+        "Install Python and Write Your First Script",
+        "Learn Basic Syntax and Data Types",
+        "Control Flow, Functions, and Error Handling",
+        "Work Through Tutorials",
+        {
+          "Resources": [
+            "https://www.w3schools.com/python/",
+            "https://realpython.com/tutorials/intermediate/",
+            "https://www.codecademy.com/learn/learn-advanced-python/"
+          ]
+        }
+      ],
+      "Intermediate": [
+        "Dive into OOP, Decorators, Context Managers",
+        "Learn About Iterators, Generators, and Web Scraping",
+        "Complete Intermediate Courses",
+        {
+          "Resources": [
+            "https://www.python.org/about/gettingstarted/",
+            "https://www.datacamp.com/courses/intermediate-python",
+            "https://www.codecademy.com/learn/learn-intermediate-python-3"
+          ]
+        }
+      ],
+      "Advanced": [
+        "Study Advanced OOP, Metaclasses, and Asynchronous Programming",
+        "Optimize Memory Management and Learn Advanced Decorators",
+        "Complete Advanced Tutorials",
+        {
+          "Resources": [
+            "https://realpython.com/tutorials/advanced/",
+            "https://www.geeksforgeeks.org/advanced-python-tutorials/",
+            "https://learn.microsoft.com/en-us/training/paths/beginner-python/"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "prompt": "Can you create a to-do list of items in increasing difficulty to learn Python from beginner to advanced using these links as resources?\nhttps://www.python.org/about/gettingstarted/\nhttps://learn.microsoft.com/en-us/training/paths/beginner-python/\nhttps://www.w3schools.com/python/\nhttps://realpython.com/tutorials/intermediate/\nhttps://www.datacamp.com/courses/intermediate-python\nhttps://www.codecademy.com/learn/learn-intermediate-python-3\nhttps://realpython.com/tutorials/advanced/\nhttps://www.geeksforgeeks.org/advanced-python-tutorials/\nhttps://www.codecademy.com/learn/learn-advanced-python/",
+    "completion": {
+      "Beginner": [
+        "Install Python and Write Your First Script",
+        "Learn Basic Syntax and Data Types",
+        "Control Flow, Functions, and Error Handling",
+        "Work Through Tutorials",
+        {
+          "Resources": [
+            "https://learn.microsoft.com/en-us/training/paths/beginner-python/",
+            "https://www.w3schools.com/python/",
+            "https://realpython.com/tutorials/intermediate/"
+          ]
+        }
+      ],
+      "Intermediate": [
+        "Dive into OOP, Decorators, Context Managers",
+        "Learn About Iterators, Generators, and Web Scraping",
+        "Complete Intermediate Courses",
+        {
+          "Resources": [
+            "https://www.python.org/about/gettingstarted/",
+            "https://realpython.com/tutorials/advanced/",
+            "https://www.codecademy.com/learn/learn-advanced-python/"
+          ]
+        }
+      ],
+      "Advanced": [
+        "Study Advanced OOP, Metaclasses, and Asynchronous Programming",
+        "Optimize Memory Management and Learn Advanced Decorators",
+        "Complete Advanced Tutorials",
+        {
+          "Resources": [
+            "https://www.datacamp.com/courses/intermediate-python",
+            "https://www.codecademy.com/learn/learn-intermediate-python-3",
+            "https://www.geeksforgeeks.org/advanced-python-tutorials/"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "prompt": "Can you create a to-do list of items in increasing difficulty to learn Python from beginner to advanced using these links as resources?\nhttps://www.python.org/about/gettingstarted/\nhttps://learn.microsoft.com/en-us/training/paths/beginner-python/\nhttps://www.w3schools.com/python/\nhttps://realpython.com/tutorials/intermediate/\nhttps://www.datacamp.com/courses/intermediate-python\nhttps://www.codecademy.com/learn/learn-intermediate-python-3\nhttps://realpython.com/tutorials/advanced/\nhttps://www.geeksforgeeks.org/advanced-python-tutorials/\nhttps://www.codecademy.com/learn/learn-advanced-python/",
+    "completion": {
+      "Beginner": [
+        "Install Python and Write Your First Script",
+        "Learn Basic Syntax and Data Types",
+        "Control Flow, Functions, and Error Handling",
+        "Work Through Tutorials",
+        {
+          "Resources": [
+            "https://learn.microsoft.com/en-us/training/paths/beginner-python/",
+            "https://www.codecademy.com/learn/learn-advanced-python/",
+            "https://www.w3schools.com/python/"
+          ]
+        }
+      ],
+      "Intermediate": [
+        "Dive into OOP, Decorators, Context Managers",
+        "Learn About Iterators, Generators, and Web Scraping",
+        "Complete Intermediate Courses",
+        {
+          "Resources": [
+            "https://www.python.org/about/gettingstarted/",
+            "https://www.codecademy.com/learn/learn-intermediate-python-3",
+            "https://www.geeksforgeeks.org/advanced-python-tutorials/"
+          ]
+        }
+      ],
+      "Advanced": [
+        "Study Advanced OOP, Metaclasses, and Asynchronous Programming",
+        "Optimize Memory Management and Learn Advanced Decorators",
+        "Complete Advanced Tutorials",
+        {
+          "Resources": [
+            "https://realpython.com/tutorials/intermediate/",
+            "https://realpython.com/tutorials/advanced/",
+            "https://www.datacamp.com/courses/intermediate-python"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "prompt": "Can you create a to-do list of items in increasing difficulty to learn Python from beginner to advanced using these links as resources?\nhttps://www.python.org/about/gettingstarted/\nhttps://learn.microsoft.com/en-us/training/paths/beginner-python/\nhttps://www.w3schools.com/python/\nhttps://realpython.com/tutorials/intermediate/\nhttps://www.datacamp.com/courses/intermediate-python\nhttps://www.codecademy.com/learn/learn-intermediate-python-3\nhttps://realpython.com/tutorials/advanced/\nhttps://www.geeksforgeeks.org/advanced-python-tutorials/\nhttps://www.codecademy.com/learn/learn-advanced-python/",
+    "completion": {
+      "Beginner": [
+        "Install Python and Write Your First Script",
+        "Learn Basic Syntax and Data Types",
+        "Control Flow, Functions, and Error Handling",
+        "Work Through Tutorials",
+        {
+          "Resources": [
+            "https://www.codecademy.com/learn/learn-advanced-python/",
+            "https://learn.microsoft.com/en-us/training/paths/beginner-python/",
+            "https://realpython.com/tutorials/advanced/"
+          ]
+        }
+      ],
+      "Intermediate": [
+        "Dive into OOP, Decorators, Context Managers",
+        "Learn About Iterators, Generators, and Web Scraping",
+        "Complete Intermediate Courses",
+        {
+          "Resources": [
+            "https://realpython.com/tutorials/intermediate/",
+            "https://www.python.org/about/gettingstarted/",
+            "https://www.w3schools.com/python/"
+          ]
+        }
+      ],
+      "Advanced": [
+        "Study Advanced OOP, Metaclasses, and Asynchronous Programming",
+        "Optimize Memory Management and Learn Advanced Decorators",
+        "Complete Advanced Tutorials",
+        {
+          "Resources": [
+            "https://www.codecademy.com/learn/learn-intermediate-python-3",
+            "https://www.geeksforgeeks.org/advanced-python-tutorials/",
+            "https://www.datacamp.com/courses/intermediate-python"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "prompt": "Can you create a to-do list of items in increasing difficulty to learn Python from beginner to advanced using these links as resources?\nhttps://www.python.org/about/gettingstarted/\nhttps://learn.microsoft.com/en-us/training/paths/beginner-python/\nhttps://www.w3schools.com/python/\nhttps://realpython.com/tutorials/intermediate/\nhttps://www.datacamp.com/courses/intermediate-python\nhttps://www.codecademy.com/learn/learn-intermediate-python-3\nhttps://realpython.com/tutorials/advanced/\nhttps://www.geeksforgeeks.org/advanced-python-tutorials/\nhttps://www.codecademy.com/learn/learn-advanced-python/",
+    "completion": {
+      "Beginner": [
+        "Install Python and Write Your First Script",
+        "Learn Basic Syntax and Data Types",
+        "Control Flow, Functions, and Error Handling",
+        "Work Through Tutorials",
+        {
+          "Resources": [
+            "https://realpython.com/tutorials/intermediate/",
+            "https://learn.microsoft.com/en-us/training/paths/beginner-python/",
+            "https://www.w3schools.com/python/"
+          ]
+        }
+      ],
+      "Intermediate": [
+        "Dive into OOP, Decorators, Context Managers",
+        "Learn About Iterators, Generators, and Web Scraping",
+        "Complete Intermediate Courses",
+        {
+          "Resources": [
+            "https://www.datacamp.com/courses/intermediate-python",
+            "https://www.codecademy.com/learn/learn-advanced-python/",
+            "https://www.codecademy.com/learn/learn-intermediate-python-3"
+          ]
+        }
+      ],
+      "Advanced": [
+        "Study Advanced OOP, Metaclasses, and Asynchronous Programming",
+        "Optimize Memory Management and Learn Advanced Decorators",
+        "Complete Advanced Tutorials",
+        {
+          "Resources": [
+            "https://www.python.org/about/gettingstarted/",
+            "https://www.geeksforgeeks.org/advanced-python-tutorials/",
+            "https://realpython.com/tutorials/advanced/"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "prompt": "Can you create a to-do list of items in increasing difficulty to learn Python from beginner to advanced using these links as resources?\nhttps://www.python.org/about/gettingstarted/\nhttps://learn.microsoft.com/en-us/training/paths/beginner-python/\nhttps://www.w3schools.com/python/\nhttps://realpython.com/tutorials/intermediate/\nhttps://www.datacamp.com/courses/intermediate-python\nhttps://www.codecademy.com/learn/learn-intermediate-python-3\nhttps://realpython.com/tutorials/advanced/\nhttps://www.geeksforgeeks.org/advanced-python-tutorials/\nhttps://www.codecademy.com/learn/learn-advanced-python/",
+    "completion": {
+      "Beginner": [
+        "Install Python and Write Your First Script",
+        "Learn Basic Syntax and Data Types",
+        "Control Flow, Functions, and Error Handling",
+        "Work Through Tutorials",
+        {
+          "Resources": [
+            "https://www.geeksforgeeks.org/advanced-python-tutorials/",
+            "https://www.codecademy.com/learn/learn-advanced-python/",
+            "https://learn.microsoft.com/en-us/training/paths/beginner-python/"
+          ]
+        }
+      ],
+      "Intermediate": [
+        "Dive into OOP, Decorators, Context Managers",
+        "Learn About Iterators, Generators, and Web Scraping",
+        "Complete Intermediate Courses",
+        {
+          "Resources": [
+            "https://www.codecademy.com/learn/learn-intermediate-python-3",
+            "https://realpython.com/tutorials/intermediate/",
+            "https://www.python.org/about/gettingstarted/"
+          ]
+        }
+      ],
+      "Advanced": [
+        "Study Advanced OOP, Metaclasses, and Asynchronous Programming",
+        "Optimize Memory Management and Learn Advanced Decorators",
+        "Complete Advanced Tutorials",
+        {
+          "Resources": [
+            "https://www.w3schools.com/python/",
+            "https://realpython.com/tutorials/advanced/",
+            "https://www.datacamp.com/courses/intermediate-python"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "prompt": "Can you create a to-do list of items in increasing difficulty to learn Python from beginner to advanced using these links as resources?\nhttps://www.python.org/about/gettingstarted/\nhttps://learn.microsoft.com/en-us/training/paths/beginner-python/\nhttps://www.w3schools.com/python/\nhttps://realpython.com/tutorials/intermediate/\nhttps://www.datacamp.com/courses/intermediate-python\nhttps://www.codecademy.com/learn/learn-intermediate-python-3\nhttps://realpython.com/tutorials/advanced/\nhttps://www.geeksforgeeks.org/advanced-python-tutorials/\nhttps://www.codecademy.com/learn/learn-advanced-python/",
+    "completion": {
+      "Beginner": [
+        "Install Python and Write Your First Script",
+        "Learn Basic Syntax and Data Types",
+        "Control Flow, Functions, and Error Handling",
+        "Work Through Tutorials",
+        {
+          "Resources": [
+            "https://www.datacamp.com/courses/intermediate-python",
+            "https://realpython.com/tutorials/intermediate/",
+            "https://www.codecademy.com/learn/learn-intermediate-python-3"
+          ]
+        }
+      ],
+      "Intermediate": [
+        "Dive into OOP, Decorators, Context Managers",
+        "Learn About Iterators, Generators, and Web Scraping",
+        "Complete Intermediate Courses",
+        {
+          "Resources": [
+            "https://www.codecademy.com/learn/learn-advanced-python/",
+            "https://www.python.org/about/gettingstarted/",
+            "https://www.geeksforgeeks.org/advanced-python-tutorials/"
+          ]
+        }
+      ],
+      "Advanced": [
+        "Study Advanced OOP, Metaclasses, and Asynchronous Programming",
+        "Optimize Memory Management and Learn Advanced Decorators",
+        "Complete Advanced Tutorials",
+        {
+          "Resources": [
+            "https://www.w3schools.com/python/",
+            "https://learn.microsoft.com/en-us/training/paths/beginner-python/",
+            "https://realpython.com/tutorials/advanced/"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "prompt": "Can you create a to-do list of items in increasing difficulty to learn Python from beginner to advanced using these links as resources?\nhttps://www.python.org/about/gettingstarted/\nhttps://learn.microsoft.com/en-us/training/paths/beginner-python/\nhttps://www.w3schools.com/python/\nhttps://realpython.com/tutorials/intermediate/\nhttps://www.datacamp.com/courses/intermediate-python\nhttps://www.codecademy.com/learn/learn-intermediate-python-3\nhttps://realpython.com/tutorials/advanced/\nhttps://www.geeksforgeeks.org/advanced-python-tutorials/\nhttps://www.codecademy.com/learn/learn-advanced-python/",
+    "completion": {
+      "Beginner": [
+        "Install Python and Write Your First Script",
+        "Learn Basic Syntax and Data Types",
+        "Control Flow, Functions, and Error Handling",
+        "Work Through Tutorials",
+        {
+          "Resources": [
+            "https://www.datacamp.com/courses/intermediate-python",
+            "https://www.codecademy.com/learn/learn-intermediate-python-3",
+            "https://www.w3schools.com/python/"
+          ]
+        }
+      ],
+      "Intermediate": [
+        "Dive into OOP, Decorators, Context Managers",
+        "Learn About Iterators, Generators, and Web Scraping",
+        "Complete Intermediate Courses",
+        {
+          "Resources": [
+            "https://realpython.com/tutorials/intermediate/",
+            "https://www.codecademy.com/learn/learn-advanced-python/",
+            "https://learn.microsoft.com/en-us/training/paths/beginner-python/"
+          ]
+        }
+      ],
+      "Advanced": [
+        "Study Advanced OOP, Metaclasses, and Asynchronous Programming",
+        "Optimize Memory Management and Learn Advanced Decorators",
+        "Complete Advanced Tutorials",
+        {
+          "Resources": [
+            "https://realpython.com/tutorials/advanced/",
+            "https://www.geeksforgeeks.org/advanced-python-tutorials/",
+            "https://www.python.org/about/gettingstarted/"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "prompt": "Can you create a to-do list of items in increasing difficulty to learn Python from beginner to advanced using these links as resources?\nhttps://www.python.org/about/gettingstarted/\nhttps://learn.microsoft.com/en-us/training/paths/beginner-python/\nhttps://www.w3schools.com/python/\nhttps://realpython.com/tutorials/intermediate/\nhttps://www.datacamp.com/courses/intermediate-python\nhttps://www.codecademy.com/learn/learn-intermediate-python-3\nhttps://realpython.com/tutorials/advanced/\nhttps://www.geeksforgeeks.org/advanced-python-tutorials/\nhttps://www.codecademy.com/learn/learn-advanced-python/",
+    "completion": {
+      "Beginner": [
+        "Install Python and Write Your First Script",
+        "Learn Basic Syntax and Data Types",
+        "Control Flow, Functions, and Error Handling",
+        "Work Through Tutorials",
+        {
+          "Resources": [
+            "https://www.geeksforgeeks.org/advanced-python-tutorials/",
+            "https://www.codecademy.com/learn/learn-intermediate-python-3",
+            "https://realpython.com/tutorials/advanced/"
+          ]
+        }
+      ],
+      "Intermediate": [
+        "Dive into OOP, Decorators, Context Managers",
+        "Learn About Iterators, Generators, and Web Scraping",
+        "Complete Intermediate Courses",
+        {
+          "Resources": [
+            "https://learn.microsoft.com/en-us/training/paths/beginner-python/",
+            "https://www.codecademy.com/learn/learn-advanced-python/",
+            "https://www.python.org/about/gettingstarted/"
+          ]
+        }
+      ],
+      "Advanced": [
+        "Study Advanced OOP, Metaclasses, and Asynchronous Programming",
+        "Optimize Memory Management and Learn Advanced Decorators",
+        "Complete Advanced Tutorials",
+        {
+          "Resources": [
+            "https://realpython.com/tutorials/intermediate/",
+            "https://www.w3schools.com/python/",
+            "https://www.datacamp.com/courses/intermediate-python"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "prompt": "Can you create a to-do list of items in increasing difficulty to learn Python from beginner to advanced using these links as resources?\nhttps://www.python.org/about/gettingstarted/\nhttps://learn.microsoft.com/en-us/training/paths/beginner-python/\nhttps://www.w3schools.com/python/\nhttps://realpython.com/tutorials/intermediate/\nhttps://www.datacamp.com/courses/intermediate-python\nhttps://www.codecademy.com/learn/learn-intermediate-python-3\nhttps://realpython.com/tutorials/advanced/\nhttps://www.geeksforgeeks.org/advanced-python-tutorials/\nhttps://www.codecademy.com/learn/learn-advanced-python/",
+    "completion": {
+      "Beginner": [
+        "Install Python and Write Your First Script",
+        "Learn Basic Syntax and Data Types",
+        "Control Flow, Functions, and Error Handling",
+        "Work Through Tutorials",
+        {
+          "Resources": [
+            "https://realpython.com/tutorials/advanced/",
+            "https://www.codecademy.com/learn/learn-advanced-python/",
+            "https://learn.microsoft.com/en-us/training/paths/beginner-python/"
+          ]
+        }
+      ],
+      "Intermediate": [
+        "Dive into OOP, Decorators, Context Managers",
+        "Learn About Iterators, Generators, and Web Scraping",
+        "Complete Intermediate Courses",
+        {
+          "Resources": [
+            "https://www.codecademy.com/learn/learn-intermediate-python-3",
+            "https://www.geeksforgeeks.org/advanced-python-tutorials/",
+            "https://realpython.com/tutorials/intermediate/"
+          ]
+        }
+      ],
+      "Advanced": [
+        "Study Advanced OOP, Metaclasses, and Asynchronous Programming",
+        "Optimize Memory Management and Learn Advanced Decorators",
+        "Complete Advanced Tutorials",
+        {
+          "Resources": [
+            "https://www.datacamp.com/courses/intermediate-python",
+            "https://www.python.org/about/gettingstarted/",
+            "https://www.w3schools.com/python/"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "prompt": "Can you create a to-do list of items in increasing difficulty to learn Python from beginner to advanced using these links as resources?\nhttps://www.python.org/about/gettingstarted/\nhttps://learn.microsoft.com/en-us/training/paths/beginner-python/\nhttps://www.w3schools.com/python/\nhttps://realpython.com/tutorials/intermediate/\nhttps://www.datacamp.com/courses/intermediate-python\nhttps://www.codecademy.com/learn/learn-intermediate-python-3\nhttps://realpython.com/tutorials/advanced/\nhttps://www.geeksforgeeks.org/advanced-python-tutorials/\nhttps://www.codecademy.com/learn/learn-advanced-python/",
+    "completion": {
+      "Beginner": [
+        "Install Python and Write Your First Script",
+        "Learn Basic Syntax and Data Types",
+        "Control Flow, Functions, and Error Handling",
+        "Work Through Tutorials",
+        {
+          "Resources": [
+            "https://realpython.com/tutorials/advanced/",
+            "https://learn.microsoft.com/en-us/training/paths/beginner-python/",
+            "https://realpython.com/tutorials/intermediate/"
+          ]
+        }
+      ],
+      "Intermediate": [
+        "Dive into OOP, Decorators, Context Managers",
+        "Learn About Iterators, Generators, and Web Scraping",
+        "Complete Intermediate Courses",
+        {
+          "Resources": [
+            "https://www.codecademy.com/learn/learn-advanced-python/",
+            "https://www.w3schools.com/python/",
+            "https://www.codecademy.com/learn/learn-intermediate-python-3"
+          ]
+        }
+      ],
+      "Advanced": [
+        "Study Advanced OOP, Metaclasses, and Asynchronous Programming",
+        "Optimize Memory Management and Learn Advanced Decorators",
+        "Complete Advanced Tutorials",
+        {
+          "Resources": [
+            "https://www.datacamp.com/courses/intermediate-python",
+            "https://www.geeksforgeeks.org/advanced-python-tutorials/",
+            "https://www.python.org/about/gettingstarted/"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "prompt": "Can you create a to-do list of items in increasing difficulty to learn Python from beginner to advanced using these links as resources?\nhttps://www.python.org/about/gettingstarted/\nhttps://learn.microsoft.com/en-us/training/paths/beginner-python/\nhttps://www.w3schools.com/python/\nhttps://realpython.com/tutorials/intermediate/\nhttps://www.datacamp.com/courses/intermediate-python\nhttps://www.codecademy.com/learn/learn-intermediate-python-3\nhttps://realpython.com/tutorials/advanced/\nhttps://www.geeksforgeeks.org/advanced-python-tutorials/\nhttps://www.codecademy.com/learn/learn-advanced-python/",
+    "completion": {
+      "Beginner": [
+        "Install Python and Write Your First Script",
+        "Learn Basic Syntax and Data Types",
+        "Control Flow, Functions, and Error Handling",
+        "Work Through Tutorials",
+        {
+          "Resources": [
+            "https://realpython.com/tutorials/intermediate/",
+            "https://www.geeksforgeeks.org/advanced-python-tutorials/",
+            "https://www.w3schools.com/python/"
+          ]
+        }
+      ],
+      "Intermediate": [
+        "Dive into OOP, Decorators, Context Managers",
+        "Learn About Iterators, Generators, and Web Scraping",
+        "Complete Intermediate Courses",
+        {
+          "Resources": [
+            "https://www.codecademy.com/learn/learn-intermediate-python-3",
+            "https://learn.microsoft.com/en-us/training/paths/beginner-python/",
+            "https://www.codecademy.com/learn/learn-advanced-python/"
+          ]
+        }
+      ],
+      "Advanced": [
+        "Study Advanced OOP, Metaclasses, and Asynchronous Programming",
+        "Optimize Memory Management and Learn Advanced Decorators",
+        "Complete Advanced Tutorials",
+        {
+          "Resources": [
+            "https://www.python.org/about/gettingstarted/",
+            "https://realpython.com/tutorials/advanced/",
+            "https://www.datacamp.com/courses/intermediate-python"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "prompt": "Can you create a to-do list of items in increasing difficulty to learn Python from beginner to advanced using these links as resources?\nhttps://www.python.org/about/gettingstarted/\nhttps://learn.microsoft.com/en-us/training/paths/beginner-python/\nhttps://www.w3schools.com/python/\nhttps://realpython.com/tutorials/intermediate/\nhttps://www.datacamp.com/courses/intermediate-python\nhttps://www.codecademy.com/learn/learn-intermediate-python-3\nhttps://realpython.com/tutorials/advanced/\nhttps://www.geeksforgeeks.org/advanced-python-tutorials/\nhttps://www.codecademy.com/learn/learn-advanced-python/",
+    "completion": {
+      "Beginner": [
+        "Install Python and Write Your First Script",
+        "Learn Basic Syntax and Data Types",
+        "Control Flow, Functions, and Error Handling",
+        "Work Through Tutorials",
+        {
+          "Resources": [
+            "https://www.datacamp.com/courses/intermediate-python",
+            "https://www.codecademy.com/learn/learn-advanced-python/",
+            "https://www.w3schools.com/python/"
+          ]
+        }
+      ],
+      "Intermediate": [
+        "Dive into OOP, Decorators, Context Managers",
+        "Learn About Iterators, Generators, and Web Scraping",
+        "Complete Intermediate Courses",
+        {
+          "Resources": [
+            "https://realpython.com/tutorials/intermediate/",
+            "https://www.codecademy.com/learn/learn-intermediate-python-3",
+            "https://www.python.org/about/gettingstarted/"
+          ]
+        }
+      ],
+      "Advanced": [
+        "Study Advanced OOP, Metaclasses, and Asynchronous Programming",
+        "Optimize Memory Management and Learn Advanced Decorators",
+        "Complete Advanced Tutorials",
+        {
+          "Resources": [
+            "https://realpython.com/tutorials/advanced/",
+            "https://www.geeksforgeeks.org/advanced-python-tutorials/",
+            "https://learn.microsoft.com/en-us/training/paths/beginner-python/"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "prompt": "Can you create a to-do list of items in increasing difficulty to learn Python from beginner to advanced using these links as resources?\nhttps://www.python.org/about/gettingstarted/\nhttps://learn.microsoft.com/en-us/training/paths/beginner-python/\nhttps://www.w3schools.com/python/\nhttps://realpython.com/tutorials/intermediate/\nhttps://www.datacamp.com/courses/intermediate-python\nhttps://www.codecademy.com/learn/learn-intermediate-python-3\nhttps://realpython.com/tutorials/advanced/\nhttps://www.geeksforgeeks.org/advanced-python-tutorials/\nhttps://www.codecademy.com/learn/learn-advanced-python/",
+    "completion": {
+      "Beginner": [
+        "Install Python and Write Your First Script",
+        "Learn Basic Syntax and Data Types",
+        "Control Flow, Functions, and Error Handling",
+        "Work Through Tutorials",
+        {
+          "Resources": [
+            "https://www.geeksforgeeks.org/advanced-python-tutorials/",
+            "https://www.codecademy.com/learn/learn-advanced-python/",
+            "https://www.python.org/about/gettingstarted/"
+          ]
+        }
+      ],
+      "Intermediate": [
+        "Dive into OOP, Decorators, Context Managers",
+        "Learn About Iterators, Generators, and Web Scraping",
+        "Complete Intermediate Courses",
+        {
+          "Resources": [
+            "https://www.codecademy.com/learn/learn-intermediate-python-3",
+            "https://learn.microsoft.com/en-us/training/paths/beginner-python/",
+            "https://www.datacamp.com/courses/intermediate-python"
+          ]
+        }
+      ],
+      "Advanced": [
+        "Study Advanced OOP, Metaclasses, and Asynchronous Programming",
+        "Optimize Memory Management and Learn Advanced Decorators",
+        "Complete Advanced Tutorials",
+        {
+          "Resources": [
+            "https://realpython.com/tutorials/intermediate/",
+            "https://realpython.com/tutorials/advanced/",
+            "https://www.w3schools.com/python/"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "prompt": "Can you create a to-do list of items in increasing difficulty to learn Python from beginner to advanced using these links as resources?\nhttps://www.python.org/about/gettingstarted/\nhttps://learn.microsoft.com/en-us/training/paths/beginner-python/\nhttps://www.w3schools.com/python/\nhttps://realpython.com/tutorials/intermediate/\nhttps://www.datacamp.com/courses/intermediate-python\nhttps://www.codecademy.com/learn/learn-intermediate-python-3\nhttps://realpython.com/tutorials/advanced/\nhttps://www.geeksforgeeks.org/advanced-python-tutorials/\nhttps://www.codecademy.com/learn/learn-advanced-python/",
+    "completion": {
+      "Beginner": [
+        "Install Python and Write Your First Script",
+        "Learn Basic Syntax and Data Types",
+        "Control Flow, Functions, and Error Handling",
+        "Work Through Tutorials",
+        {
+          "Resources": [
+            "https://www.codecademy.com/learn/learn-intermediate-python-3",
+            "https://www.w3schools.com/python/",
+            "https://learn.microsoft.com/en-us/training/paths/beginner-python/"
+          ]
+        }
+      ],
+      "Intermediate": [
+        "Dive into OOP, Decorators, Context Managers",
+        "Learn About Iterators, Generators, and Web Scraping",
+        "Complete Intermediate Courses",
+        {
+          "Resources": [
+            "https://www.geeksforgeeks.org/advanced-python-tutorials/",
+            "https://www.codecademy.com/learn/learn-advanced-python/",
+            "https://www.python.org/about/gettingstarted/"
+          ]
+        }
+      ],
+      "Advanced": [
+        "Study Advanced OOP, Metaclasses, and Asynchronous Programming",
+        "Optimize Memory Management and Learn Advanced Decorators",
+        "Complete Advanced Tutorials",
+        {
+          "Resources": [
+            "https://realpython.com/tutorials/intermediate/",
+            "https://realpython.com/tutorials/advanced/",
+            "https://www.datacamp.com/courses/intermediate-python"
+          ]
+        }
+      ]
+    }
+  }
+]
